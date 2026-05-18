@@ -74,7 +74,7 @@ jobs:
           cache: true
 
       - name: Render PDF
-        run: quarto render "${QMD_FILE}" --to pdf --no-execute
+        run: quarto render "${QMD_FILE}" --to pdf --output-dir . --no-execute
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
