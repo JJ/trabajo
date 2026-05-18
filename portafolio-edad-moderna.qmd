@@ -1,0 +1,18 @@
+---
+title: "Portafolio-edad-moderna"
+format: pdf
+bibliography: biblio.bib
+csl: apa.csl
+author:
+  - name: JJ Merelo
+    email: jjmerelo@correo.ugr.es
+    affiliations:
+      - name: 2º A Historia del Arte de la Edad Moderna en España
+---
+
+# Portafolio de Historia del Arte de la Edad Moderna en España
+
+En las tres etapas trabajaré con un solo edificio o monumento, que ya de por sí es obra arquitectónica, que incluya a su vez esculturas y pinturas. 
+
+## Palacio del Marqués de Santa Cruz en el Viso del Marqués
+
