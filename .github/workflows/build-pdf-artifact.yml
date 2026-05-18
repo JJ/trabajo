@@ -1,0 +1,88 @@
+name: Build Quarto PDF artifact
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "*.qmd"
+      - "**/*.qmd"
+      - "*.bib"
+      - "**/*.bib"
+      - "*.csl"
+      - "**/*.csl"
+      - ".github/workflows/build-pdf-artifact.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  actions: write
+
+env:
+  QMD_FILE: portafolio-edad-moderna.qmd
+  PDF_FILE: portafolio-edad-moderna.pdf
+
+jobs:
+  validate_quarto_source:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Setup Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Cache Quarto workspace data
+        uses: actions/cache@v5
+        with:
+          path: |
+            ~/.cache/quarto
+            ~/.quarto
+          key: ${{ runner.os }}-quarto-${{ hashFiles('**/*.qmd', '**/*.bib', '**/*.csl') }}
+          restore-keys: |
+            ${{ runner.os }}-quarto-
+
+      - name: Validate Quarto syntax (fail fast)
+        run: |
+          quarto render "${QMD_FILE}" --to markdown --output-dir /tmp/quarto-validate --no-execute
+
+  build_pdf:
+    needs: validate_quarto_source
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Setup Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Cache Quarto workspace data
+        uses: actions/cache@v5
+        with:
+          path: |
+            ~/.cache/quarto
+            ~/.quarto
+          key: ${{ runner.os }}-quarto-${{ hashFiles('**/*.qmd', '**/*.bib', '**/*.csl') }}
+          restore-keys: |
+            ${{ runner.os }}-quarto-
+
+      - name: Setup TinyTeX (cached)
+        uses: r-lib/actions/setup-tinytex@v2
+        with:
+          cache: true
+
+      - name: Render PDF
+        run: quarto render "${QMD_FILE}" --to pdf --output-dir .
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v7
+        with:
+          name: quarto-pdf-${{ github.run_id }}
+          path: ${{ env.PDF_FILE }}
+          if-no-files-found: error
