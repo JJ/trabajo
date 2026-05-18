@@ -20,6 +20,7 @@ permissions:
 
 env:
   QMD_FILE: portafolio-edad-moderna.qmd
+  PDF_FILE: portafolio-edad-moderna.pdf
 
 jobs:
   validate_quarto_source:
@@ -79,5 +80,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: portafolio-edad-moderna-pdf
-          path: "*.pdf"
+          path: ${{ env.PDF_FILE }}
           if-no-files-found: error
