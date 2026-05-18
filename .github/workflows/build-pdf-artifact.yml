@@ -17,6 +17,7 @@ concurrency:
 
 permissions:
   contents: read
+  actions: write
 
 env:
   QMD_FILE: portafolio-edad-moderna.qmd
