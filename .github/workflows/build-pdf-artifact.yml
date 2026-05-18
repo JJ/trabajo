@@ -79,6 +79,6 @@ jobs:
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
         with:
-          name: ${{ env.PDF_FILE }}
+          name: quarto-pdf-${{ github.run_number }}
           path: ${{ env.PDF_FILE }}
           if-no-files-found: error
