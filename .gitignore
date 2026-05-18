@@ -326,3 +326,8 @@ TSWLatexianTemp*
 #*Notes.bib
 .Rproj.user
 .positai
+
+# Adicionales
+*~
+*.pdf
+*.Rproj
