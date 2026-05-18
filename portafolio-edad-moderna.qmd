@@ -18,6 +18,7 @@ En las tres etapas trabajaré con un solo edificio o monumento, que ya de por s�
 
 
 ### Arquitectura del palacio del Marqués de Santa Cruz
+![Vista lateral del palacio](img/palacio.jpg)
 
 En este apartado nos referiremos al edificio en sí.
 
