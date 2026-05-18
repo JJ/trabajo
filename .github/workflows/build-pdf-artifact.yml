@@ -5,8 +5,11 @@ on:
     branches:
       - main
     paths:
+      - "*.qmd"
       - "**/*.qmd"
+      - "*.bib"
       - "**/*.bib"
+      - "*.csl"
       - "**/*.csl"
       - ".github/workflows/build-pdf-artifact.yml"
   workflow_dispatch:
