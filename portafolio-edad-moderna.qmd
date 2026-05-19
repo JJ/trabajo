@@ -24,7 +24,7 @@ En este apartado nos referiremos al edificio en sí.
 
 #### Autor
 
-Encargo de Álvaro de Bazán, se cree que puede tener trazas de Enrique Egas "El Mozo" o incluso de Covarrubias [@alma991007469429704990,@martinez2023materiales]. Se sabe que la escalera la proyectó Giovanni Battista Castello llamado El Bergamasco, que actuó como maestro de obras junto con un tal Olamasquín o posiblemente Cremaschino, es decir, Juan Bautista Perolli. A este se atribuye en muchas obras como El Siglo del Renacimiento [@alma991003192069704990, p84] su autoría de forma exclusiva.
+Encargo de Álvaro de Bazán, se cree que puede tener trazas de Enrique Egas "El Mozo" o incluso de Covarrubias ([@martinez2023materiales] citando a [@alma991007469429704990, p. 381]), aunque este dice "quizá". Se sabe que la escalera la proyectó Giovanni Battista Castello llamado El Bergamasco, que actuó como maestro de obras junto con un tal Olamasquín o posiblemente Cremaschino, es decir, Juan Bautista Perolli. A este se atribuye en muchas obras como El Siglo del Renacimiento [@alma991003192069704990, p84] su autoría de forma exclusiva.
 
 #### Cronología
 
@@ -32,9 +32,20 @@ Se sabe que en 1562 estaba ya comenzada [@martinez2023materiales], para terminar
 
 #### Tipología
 
-Aunque está claro que se trata de un palacio, tiene elementos tanto de casa de linaje como de villa campestre (un jardín). En algunas fuentes se le denomina a esta arquitectura alcázar-palacio.
+Aunque está claro que se trata de un palacio, tiene elementos tanto de casa de linaje como de villa campestre (un jardín). Podría definirse, por su similitud con el Alcázar de Madrid y el de Toledo, como un alcázar-palacio.
 
 #### Análisis descriptivo
+
+Se trata de un edificio ligeramente rectangular con patio interior y jardín situado a la izquierda del eje principal. El exterior es austero y carece apenas de decoración aparte de la portada, con un ligero resalte con respecto a la fachada principal que a su vez está inclinado, con más grosor en la base que en altura.
+![Portada del palacio](img/portada.jpg)
+
+El aspecto que presenta hoy en día la portada (en la imagen, el piso superior) no es el original, siendo remodelado por Pedro Arnal en el siglo XVIII [@martinez2023materiales]; aunque incluye elementos de la fábrica inicial, incorpora también dos contrafuertes para evitar el derrumbe de la misma. La portada original tenía cuatro torres esquineras a modo de alcázar, como se ha dicho, que fueron derribadas tras las grietas que aparecieron en las mismas durante el terremoto de Lisboa. La construcción es en ladrillo, sin más decoración en las ventanas que unos arcos construidos también con ladrillos verticales del mismo tipo.
+
+Donde comenzamos a apreciar todo el esplendor renacentista es al entrar el edificio y encontrarnos en el patio.
+![Patio del palacio del marqués](img/patio.jpg)
+Este patio rectangular de dos pisos, con tres arcos de medio punto en el lado más estrecho y cuatro en el más ancho, siguiendo una proporción 3/4 clásica. Los dos pisos tienen pilastras, de orden dórico en el piso bajo, de orden jónico en el piso alto; los intradoses de los arcos están decorados con diamantes.
+El patio está organizado de forma axial desde la puerta, llevando a una escalera monumental que sí está documentada como creada por el Bergamasco, que de hecho usándola como portafolio fue contratado por Felipe II para que hiciera algo similar en el Escorial.
+
 
 
 #### Contexto histórico-cultural
