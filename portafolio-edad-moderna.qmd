@@ -18,21 +18,59 @@ En las tres etapas trabajaré con un solo edificio o monumento, que ya de por s�
 
 
 ### Arquitectura del palacio del Marqués de Santa Cruz
+![Vista lateral del palacio](img/palacio.jpg)
 
 En este apartado nos referiremos al edificio en sí.
 
 #### Autor
 
+Encargo de Álvaro de Bazán, se cree que puede tener trazas de Enrique Egas "El Mozo" o incluso de Covarrubias ([@martinez2023materiales] citando a [@alma991007469429704990, p. 381]), aunque este dice "quizá". Se sabe que la escalera la proyectó Giovanni Battista Castello llamado El Bergamasco, que actuó como maestro de obras junto con un tal Olamasquín o posiblemente Cremaschino, es decir, Juan Bautista Perolli. A este se atribuye en muchas obras como El Siglo del Renacimiento [@alma991003192069704990, p84] su autoría de forma exclusiva.
 
 #### Cronología
-#### Tipología:
+
+Se sabe que en 1562 estaba ya comenzada [@martinez2023materiales], para terminar más allá de 1588. Por lo tanto, se trata de un Renacimiento pleno en la cronología española, manierismo en la italiana.
+
+#### Tipología
+
+Aunque está claro que se trata de un palacio, tiene elementos tanto de casa de linaje como de villa campestre (un jardín). Podría definirse, por su similitud con el Alcázar de Madrid y el de Toledo, como un alcázar-palacio.
+
 #### Análisis descriptivo
+
+Se trata de un edificio ligeramente rectangular con patio interior y jardín situado a la izquierda del eje principal. El exterior es austero y carece apenas de decoración aparte de la portada, con un ligero resalte con respecto a la fachada principal que a su vez está inclinado, con más grosor en la base que en altura.
+![Portada del palacio](img/portada.jpg)
+
+El aspecto que presenta hoy en día la portada (en la imagen, el piso superior) no es el original, siendo remodelado por Pedro Arnal en el siglo XVIII [@martinez2023materiales]; aunque incluye elementos de la fábrica inicial, incorpora también dos contrafuertes para evitar el derrumbe de la misma. La portada original tenía cuatro torres esquineras a modo de alcázar, como se ha dicho, que fueron derribadas tras las grietas que aparecieron en las mismas durante el terremoto de Lisboa. La construcción es en ladrillo, sin más decoración en las ventanas que unos arcos construidos también con ladrillos verticales del mismo tipo.
+
+Donde comenzamos a apreciar todo el esplendor renacentista es al entrar el edificio y encontrarnos en el patio.
+![Patio del palacio del marqués](img/patio.jpg)
+Este patio rectangular de dos pisos, con tres arcos de medio punto en el lado más estrecho y cuatro en el más ancho, siguiendo una proporción 3/4 clásica. Los dos pisos tienen pilastras, de orden dórico en el piso bajo, de orden jónico en el piso alto; los intradoses de los arcos están decorados con diamantes.
+El patio está organizado de forma axial desde la puerta, llevando a una escalera monumental que sí está documentada como creada por el Bergamasco, que de hecho usándola como portafolio fue contratado por Felipe II para que construyera una similar en el Escorial. La escalera ocupa toda la parte trasera del palacio, teniendo un tramo de subida que se bifurca llegando a dos descansillos con sendas hornacinas ocupadas por esculturas (ver más adelante) y dos tramos de subida adicionales. Todos los tramos están cubiertos por bóvedas de crucería afrescadas, siguiendo un programa iconográfico centrado en la fama, las victorias militares y las virtudes del buen soldado español (ver también más adelante).
+![Escalera monumental](img/escalera.jpg)
+
+
+
+
 #### Contexto histórico-cultural
 
 
+### Esculturas de la escalera
+
+El palacio tiene un programa iconográfico que incluye una serie de esculturas simuladas en grisalla de color dorado. Las dos esculturas que se incluyen en el mismo representan al propio Álvaro de Bazán como Neptuno y Marte. Además hay una estatuas sepulcrales en la salida hacia el jardín, que no están accesibles.
+
+![Álvaro de Bazán como Neptuno](img/neptuno.jpg)
+
 #### Autor
+
+Aunque no hay atribución exacta, se cree que son de Giovanni Battista Perolli, también llamado "Olamasquin" por un error de transcripción o Cremaschino. Se trata del único escultor (y arquitecto) acreditado entre los encargados del palacio, de ahí su atribución.
+
 #### Cronología
-#### Tipología:
+
+Se hicieron junto con el resto de la decoración del palacio, es decir, los últimos años del siglo XVI, son saber concretar cuando fue.
+
+#### Tipología
+
+Son esculturas de bulto redondo, realizadas en mármol con dorados.
+
 #### Análisis descriptivo
 #### Contexto histórico-cultural
 
@@ -81,3 +119,5 @@ En este apartado nos referiremos al edificio en sí.
 ## Créditos de las imágenes
 
 Todas las imágenes son del autor, con licencia cc-by-sa, salvo los casos que se comentan a continuación.
+
+## Referencias
