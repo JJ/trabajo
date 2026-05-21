@@ -17,8 +17,9 @@ En las tres etapas trabajaré con un solo edificio o monumento, que ya de por s�
 ## Palacio del Marqués de Santa Cruz en el Viso del Marqués
 
 Álvaro de Bazán venía de un linaje procedente del valle del Baztán, linaje guerrero que había participado en la toma de Granada y en otros hechos de armas, siempre al servicio del rey de España. El padre del mismo compró la encomienda de la orden de Calatrava que tenia su sede en el Viso, y comenzó la relación del linaje con Génova, especialmente con la familia Doria, una de las familias que formaban parte del consejo rector de la república, alianza que se cimentó en hechos de armas y también en una relación personal, con Álvaro de Bazán viviendo en uno del palacios de los Doria (probablemente el Doria-Tulsi) durante algún tiempo.
-En el lugar donde está ahora el palacio había una serie de casas de la orden, pasadas a su propiedad cuando adquirió la encomienda. Cuando pudo por tener suficiente liquidez económica, más que cuando quiso, Álvaro de Bazán decidió usar el lugar de esas casas para un palacio que le sirviera de casa de linaje. Más probablemente unos años más tarde decidió hacer también un monumento a su fama y a su fortuna.
+En el lugar donde está ahora el palacio había una serie de casas de la orden, pasadas a su propiedad cuando adquirió la encomienda. Cuando pudo por tener suficiente liquidez económica, más que cuando quiso, Álvaro de Bazán decidió usar el lugar de esas casas para un palacio que le sirviera de casa de linaje; probablemente unos años más tarde decidió hacer también un monumento a su fama y a su fortuna.
 
+Este edificio y programa iconográfico, salvo algunos cambios y restauraciones más o menos afortunadas, se pueden contemplar todavía hoy, cuando sigue en uso como archivo histórico de la Armada.
 
 ### Arquitectura del palacio del Marqués de Santa Cruz
 ![Vista lateral del palacio](img/palacio.jpg)
@@ -39,10 +40,12 @@ Aunque está claro que se trata de un palacio, tiene elementos tanto de casa de 
 
 #### Análisis descriptivo
 
-Se trata de un edificio ligeramente rectangular con patio interior y jardín situado a la izquierda del eje principal. El exterior es austero y carece apenas de decoración aparte de la portada, con un ligero resalte con respecto a la fachada principal que a su vez está inclinado, con más grosor en la base que en altura.
+Está documentado que Enrique Egás el Mozo estuvo como máximo dos años, apenas el tiempo suficiente para la traza general y el exterior del edifio, después de haber trabajado en edificios que corresponderían a la tipología alcázar-palacio.
+
+Se trata de un edificio ligeramente rectangular con patio interior y jardín situado a la izquierda del eje principal. Puede que esta intención inicial explique el exterior austero y sin apenas decoración aparte de la portada, con un ligero resalte con respecto a la fachada principal que a su vez está inclinado, con más grosor en la base que en altura.
 ![Portada del palacio](img/portada.jpg)
 
-El aspecto que presenta hoy en día la portada (en la imagen, el piso superior) no es el original, siendo remodelado por Pedro Arnal en el siglo XVIII [@martinez2023materiales]; aunque incluye elementos de la fábrica inicial, incorpora también dos contrafuertes para evitar el derrumbe de la misma. La portada original tenía cuatro torres esquineras a modo de alcázar, como se ha dicho, que fueron derribadas tras las grietas que aparecieron en las mismas durante el terremoto de Lisboa. La construcción es en ladrillo, sin más decoración en las ventanas que unos arcos construidos también con ladrillos verticales del mismo tipo.
+El aspecto que presenta hoy en día la misma (en la imagen, el piso superior) no es el original, siendo remodelado por Pedro Arnal en el siglo XVIII [@martinez2023materiales]; aunque incluye elementos de la fábrica inicial, incorpora también dos contrafuertes para evitar el derrumbe de la misma. La portada original tenía cuatro torres esquineras a modo de alcázar, como se ha dicho, que fueron derribadas tras las grietas que aparecieron en las mismas durante el terremoto de Lisboa. La construcción es en ladrillo, sin más decoración en las ventanas que unos arcos construidos también con ladrillos verticales del mismo tipo.
 
 Donde comenzamos a apreciar todo el esplendor renacentista es al entrar el edificio y encontrarnos en el patio.
 ![Patio del palacio del marqués](img/patio.jpg)
