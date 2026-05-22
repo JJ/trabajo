@@ -14,6 +14,8 @@ author:
 
 En las tres etapas trabajaré con un solo edificio o monumento, que ya de por sí es obra arquitectónica, que incluya a su vez esculturas y pinturas. Este edificio es interesante primero por lo improbable de su localización, "porque pudo y porque quiso", en medio de La Mancha, y segundo por la importación de artistas italianos que crearon una obra con poca relación con el entorno y una influencia arquitectónica y artística considerable.
 
+Dado que se trata para cada una de las épocas de una obra examinada en los tres aspectos: pictórico, arquitectónico y plástico, haremos un solo apartado de contexto para cada uno de ellos.
+
 ## Palacio del Marqués de Santa Cruz en el Viso del Marqués
 
 Álvaro de Bazán venía de un linaje procedente del valle del Baztán, linaje guerrero que había participado en la toma de Granada y en otros hechos de armas, siempre al servicio del rey de España. El padre del mismo compró la encomienda de la orden de Calatrava que tenia su sede en el Viso, y comenzó la relación del linaje con Génova, especialmente con la familia Doria, una de las familias que formaban parte del consejo rector de la república, alianza que se cimentó en hechos de armas y también en una relación personal, con Álvaro de Bazán viviendo en uno del palacios de los Doria (probablemente el Doria-Tulsi) durante algún tiempo.
@@ -58,10 +60,7 @@ Esa influencia vignolesca se ve también en la arquitectura desornamentada y pla
 El patio está organizado de forma axial desde la puerta, llevando a una escalera monumental que sí está documentada como creada por el Bergamasco, que de hecho usándola como portafolio fue contratado por Felipe II para que construyera una similar en el Escorial. La escalera ocupa toda la parte trasera del palacio, teniendo un tramo de subida que se bifurca llegando a dos descansillos con sendas hornacinas ocupadas por esculturas (ver más adelante) y dos tramos de subida adicionales. Todos los tramos están cubiertos por bóvedas de crucería afrescadas, siguiendo un programa iconográfico centrado en la fama, las victorias militares y las virtudes del buen soldado español (ver también más adelante).
 ![Escalera monumental](img/escalera.jpg)
 
-
-
-
-#### Contexto histórico-cultural
+Uno de los aspectos en los que el Bergamasco sigue a Vignola es en la integración de las arquitecturas simuladas con las reales. Por eso veremos a continuación la pintura en este edificio, para finalizar con la escultura
 
 
 ### Esculturas de la escalera
