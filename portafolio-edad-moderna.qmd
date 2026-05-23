@@ -22,7 +22,7 @@ En el lugar donde está ahora el palacio había una serie de casas de la orden, 
 Este edificio y programa iconográfico, salvo algunos cambios y restauraciones más o menos afortunadas, se pueden contemplar todavía hoy, cuando sigue en uso como archivo histórico de la Armada.
 
 ### Arquitectura del palacio del Marqués de Santa Cruz
-![Vista lateral del palacio](img/palacio.jpg)
+![Vista lateral del palacio](img/palacio.jpg){height=3in}
 
 En este apartado nos referiremos al edificio en sí.
 
