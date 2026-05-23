@@ -72,10 +72,8 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-quarto-
 
-      - name: Setup TinyTeX (cached)
+      - name: Setup TinyTeX
         uses: r-lib/actions/setup-tinytex@v2
-        with:
-          cache: true
 
       - name: Render PDF
         run: quarto render "${QMD_FILE}" --to pdf --output-dir .
