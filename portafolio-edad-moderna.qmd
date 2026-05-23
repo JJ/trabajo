@@ -38,7 +38,7 @@ Se sabe que en 1562 estaba ya comenzada [@martinez2023materiales], para terminar
 
 #### Tipología
 
-Aunque está claro que se trata de un palacio, tiene elementos tanto de casa de linaje como de villa campestre (un jardín). Podría definirse, por su similitud con el Alcázar de Madrid y el de Toledo, como un alcázar-palacio.
+Aunque está claro que se trata de un palacio, tiene elementos tanto de casa de linaje como de villa campestre (un jardín) o "casa de campo fortificada" [@teos1999casa]. Podría definirse, por su similitud con el Alcázar de Madrid y el de Toledo, como un alcázar-palacio.
 
 #### Análisis descriptivo
 
@@ -52,9 +52,8 @@ El aspecto que presenta hoy en día la misma (en la imagen, el piso superior) no
 En 1564, sin embargo, por razones desconocidas, se encarga la dirección de las obras al dicho Bergamasco. Este era un arquitecto y pintor genovés que había trabajado en diferentes palacios de los denominados *del Rolli*, es decir, obligados por la Signoria a alojar a visitantes ilustres en caso de que se les requiriera, incluyendo una para una gran familia, los Grimani. Aunque algunas fuentes indican que el contacto con el marqués llegaría a través del Zenete, lo cierto es que se dio el caso del conocimiento de los palacios Doria por parte de Álvaro de Bazán y la disponibilidad de uno de los arquitectos que había trabajado en palacios del mismo estilo, Giovanni (o Giovan) Battista Castello. Su llegada provocó un cambio radical en el palacio, y con ello introdujo una nueva tipología inexistente hasta ese momento en la península.
 
 Donde comenzamos a apreciar todo el esplendor renacentista es al entrar el edificio y encontrarnos en el patio.
-![Patio del palacio del marqués](img/patio.jpg)
-Este patio rectangular de dos pisos, con tres arcos de medio punto en el lado más estrecho y cuatro en el más ancho, siguiendo una proporción 3/4 clásica, como se ha indicado, por ejemplo, en los escritos de Vignola, que se encontraron entre las propiedades de Castello a su muerte [@garcia2011aproximacion]; aparte de este conocimiento de las reglas de Vignola, Castello conocía muy bien su plasmación en los palacios de Génova. Esta influencia se verá de una forma más o menos directa en este patio. 
 
+![Patio del palacio del marqués](img/patio.jpg){height=3in}
 
 Esa influencia vignolesca se ve también en la arquitectura desornamentada y planar de este patio. Se prefieren pilastras frente a columnas, de orden dórico en el piso bajo, de orden jónico en el piso alto; los intradoses de los arcos están decorados con diamantes.
 El patio está organizado de forma axial desde la puerta, llevando a una escalera monumental que sí está documentada como creada por el Bergamasco, que de hecho usándola como portafolio fue contratado por Felipe II para que construyera una similar en el Escorial. La escalera ocupa toda la parte trasera del palacio, teniendo un tramo de subida que se bifurca llegando a dos descansillos con sendas hornacinas ocupadas por esculturas (ver más adelante) y dos tramos de subida adicionales. Todos los tramos están cubiertos por bóvedas de crucería afrescadas, siguiendo un programa iconográfico centrado en la fama, las victorias militares y las virtudes del buen soldado español (ver también más adelante).
@@ -64,6 +63,15 @@ El patio está organizado de forma axial desde la puerta, llevando a una escaler
 Las estancias superiores dejan la decoración a la pintura, usando capiteles jónicos o corintios simulados que continúan en el artesonado también decorado con frescos y separado de la pared por una moldura estucada.
 
  pero entre ellas y perpendicular al eje del patio está la capilla, la armadura en forma de ar
+Este patio rectangular de dos pisos, con tres arcos de medio punto en el lado más estrecho y cuatro en el más ancho, siguiendo una proporción 3/4 clásica, como se ha indicado, por ejemplo, en los escritos de Vignola, que se encontraron entre las propiedades de Castello a su muerte [@garcia2011aproximacion]; aparte de este conocimiento de las reglas de Vignola [@garcia2011aproximacion], Castello estaba familiarizado con su plasmación en los palacios de Génova. Esta influencia se verá de una forma más o menos directa en este patio. 
+
+Esa influencia vignolesca se ve también en la arquitectura desornamentada y planar de este patio. Se prefieren pilastras frente a columnas, de orden dórico en el piso bajo, de orden jónico en el piso alto; los intradoses de los arcos están decorados con diamantes y cajeados simulados, un recurso también clásico sacado de los tratados de arquitectura al uso. Este motivo se repite también en los intradoses de los arcos de la escalera, aunque con más decoración, y también en el intradós de las arcadas de la loggia del piso superior.
+
+El patio está organizado de forma axial desde la puerta, llevando a una escalera monumental que sí está documentada como creada por el Bergamasco, que de hecho usándola como portafolio fue contratado por Felipe II para que construyera una similar en el Escorial. La escalera ocupa toda la parte trasera del palacio, teniendo un tramo de subida que se bifurca llegando a dos descansillos con sendas hornacinas ocupadas por esculturas (ver más adelante) y dos tramos de subida adicionales. Todos los tramos están cubiertos por bóvedas de cañón afrescadas, siguiendo un programa iconográfico centrado en la fama, las victorias militares y las virtudes del buen soldado español (ver también más adelante).
+
+![Escalera monumental](img/escalera.jpg){height=3in}
+
+Esta escalera sería la primera escalera imperial construida en España, y de hecho su novedad y carácter monumental haría que su arquitecto la adoptara también en El Escorial, aunque con otra configuración abierta en vez de cerrada con bóvedas. En esta escalera, una vez más, se integra la arquitectura simulada con la real alternando arcos decorados con diamantes y florones en el intradós, con trampantojos que simulan mármoles de colores. Esta decoración de los intradoses retoma y potencia los motivos simples de la planta baja, siguiendo una jerarquía visual que parte de lo simple en la planta baja, usando motivos más complicados según se va subiendo; a esto responde el uso de capiteles dóricos en la planta baja y jónicos en la alta, por ejemplo, y el uso de motivos simulados en la planta baja y reales en la segunda planta.
 
 
 
@@ -72,7 +80,7 @@ Uno de los aspectos en los que el Bergamasco sigue a Vignola es en la integraci�
 
 ### Esculturas de la escalera
 
-El palacio tiene un programa iconográfico que incluye una serie de esculturas simuladas en grisalla de color dorado. Las dos esculturas que se incluyen en el mismo representan al propio Álvaro de Bazán como Neptuno y Marte. Además hay una estatuas sepulcrales en la salida hacia el jardín, que no están accesibles.
+El palacio tiene un programa iconográfico que incluye una serie de esculturas simuladas en grisalla de color dorado. Las dos esculturas que se incluyen en el mismo representan al propio Álvaro de Bazán como Neptuno y Marte. Además hay una estatuas sepulcrales en la salida hacia el jardín, que no están accesibles y que no comentaremos.
 
 ![Álvaro de Bazán como Neptuno](img/neptuno.jpg)
 
