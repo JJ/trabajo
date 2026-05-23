@@ -330,4 +330,5 @@ TSWLatexianTemp*
 # Adicionales
 *~
 *.pdf
-*.Rproj.Rhistory
+*.Rproj
+.Rhistory
