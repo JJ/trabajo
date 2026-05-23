@@ -68,6 +68,8 @@ Esta escalera sería la primera de tipo imperial construida en España, y de hec
 
 Las estancias superiores dejan la decoración a la pintura, usando capiteles jónicos o corintios simulados que continúan en el artesonado también decorado con frescos y separado de la pared por una moldura estucada. Algunas de las estancias están decoradas con chimeneas también con un frontón partido y decoración sobria.
 
+Finalmente, en el eje axial del patio y justo en el centro  y encima de la escalera imperial se sitúa la capilla, un lugar simbólico que la coloca entre los dos descansillos representando la virtud y la fortuna.
+
 Uno de los aspectos en los que el Bergamasco sigue a Vignola, como se ha comentado es en la integración de las arquitecturas simuladas con las reales. Por eso veremos a continuación la pintura en este edificio, para finalizar con la escultura.
 
 
@@ -92,10 +94,7 @@ Son esculturas de bulto redondo, realizadas en mármol con dorados, posiblemente
 #### Análisis descriptivo
 
 ![Alvaro de Bazán como César](img/bazan-como-cesar.jpeg){height=3in}
-<<<<<<< HEAD
-=======
 
->>>>>>> 6c127ad247e9dd3777403c44f9d9c8cd60780439
 Subiendo desde el patio en el descansillo de la derecha se encuentra la estatua de Álvaro de Bazán como Marte y vestido como general romano, con vara de mando y *lorica* y casco emplumado. La pierna derecha, levantada, pisa en una postura denominada *calcatio* la cabeza de una persona con aspecto de turco, turbante y grandes bigotes. La escultura se encuentra en un nicho decorado en su bóveda con escenas de batallas, potenciando ese aspecto de luchador victorioso en una *psicomaquia* o lucha contra el mal.
 
 Los dorados se han usado como resaltes de la armadura, flecos, correa diagonal y para los ataharres de la sandalia, posiblemente como contraste de la cabeza del enemigo vencido. 
