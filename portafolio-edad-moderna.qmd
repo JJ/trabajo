@@ -43,7 +43,8 @@ Aunque está claro que se trata de un palacio, tiene elementos tanto de casa de 
 Está documentado que Enrique Egás el Mozo estuvo como máximo dos años, apenas el tiempo suficiente para la traza general y el exterior del edifio, después de haber trabajado en edificios que corresponderían a la tipología alcázar-palacio.
 
 Se trata de un edificio ligeramente rectangular con patio interior y jardín situado a la izquierda del eje principal. Puede que esta intención inicial explique el exterior austero y sin apenas decoración aparte de la portada, con un ligero resalte con respecto a la fachada principal que a su vez está inclinado, con más grosor en la base que en altura.
-![Portada del palacio](img/portada.jpg)
+
+![Portada del palacio](img/portada.jpg){height=3in}
 
 El aspecto que presenta hoy en día la misma (en la imagen, el piso superior) no es el original, siendo remodelado por Pedro Arnal en el siglo XVIII [@martinez2023materiales]; aunque incluye elementos de la fábrica inicial, incorpora también dos contrafuertes para evitar el derrumbe de la misma. La portada original tenía cuatro torres esquineras a modo de alcázar, como se ha dicho, que fueron derribadas tras las grietas que aparecieron en las mismas durante el terremoto de Lisboa. La construcción es en ladrillo, sin más decoración en las ventanas que unos arcos construidos también con ladrillos verticales del mismo tipo.
 
@@ -71,7 +72,7 @@ Esta escalera sería la primera escalera imperial construida en España, y de he
 
 El palacio tiene un programa iconográfico que incluye una serie de esculturas simuladas en grisalla de color dorado. Las dos esculturas que se incluyen en el mismo representan al propio Álvaro de Bazán como Neptuno y Marte. Además hay una estatuas sepulcrales en la salida hacia el jardín, que no están accesibles y que no comentaremos.
 
-![Álvaro de Bazán como Neptuno](img/neptuno.jpg)
+![Álvaro de Bazán como Neptuno](img/neptuno.jpg){height=3in}
 
 #### Autor
 
@@ -87,7 +88,7 @@ Son esculturas de bulto redondo, realizadas en mármol con dorados, posiblemente
 
 #### Análisis descriptivo
 
-![Alvaro de Bazán como César](img/bazan-como-cesar.jpeg)
+![Alvaro de Bazán como César](img/bazan-como-cesar.jpeg){height=3in}
 Subiendo desde el patio en el descansillo de la derecha se encuentra la estatua de Álvaro de Bazán como Marte y vestido como general romano, con vara de mando y *lorica* y casco emplumado. La pierna derecha, levantada, pisa en una postura denominada *calcatio* la cabeza de una persona con aspecto de turco, turbante y grandes bigotes. La escultura se encuentra en un nicho decorado en su bóveda con escenas de batallas, potenciando ese aspecto de luchador victorioso en una *psicomaquia* o lucha contra el mal.
 
 Los dorados se han usado como resaltes de la armadura, flecos, correa diagonal y para los ataharres de la sandalia, posiblemente como contraste de la cabeza del enemigo vencido. 
