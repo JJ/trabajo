@@ -90,7 +90,8 @@ Son esculturas de bulto redondo, realizadas en mármol con dorados, posiblemente
 
 #### Análisis descriptivo
 
-![Alvaro de Bazán como César](img/bazan-como-cesar.jpeg)
+![Alvaro de Bazán como César](img/bazan-como-cesar.jpeg){height=3in}
+
 Subiendo desde el patio en el descansillo de la derecha se encuentra la estatua de Álvaro de Bazán como Marte y vestido como general romano, con vara de mando y *lorica* y casco emplumado. La pierna derecha, levantada, pisa en una postura denominada *calcatio* la cabeza de una persona con aspecto de turco, turbante y grandes bigotes. La escultura se encuentra en un nicho decorado en su bóveda con escenas de batallas, potenciando ese aspecto de luchador victorioso en una *psicomaquia* o lucha contra el mal.
 
 Los dorados se han usado como resaltes de la armadura, flecos, correa diagonal y para los ataharres de la sandalia, posiblemente como contraste de la cabeza del enemigo vencido. 
