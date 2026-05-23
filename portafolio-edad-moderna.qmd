@@ -58,7 +58,8 @@ Este patio rectangular de dos pisos, con tres arcos de medio punto en el lado m�
 Esa influencia vignolesca se ve también en la arquitectura desornamentada y planar de este patio. Se prefieren pilastras frente a columnas, de orden dórico en el piso bajo, de orden jónico en el piso alto; los intradoses de los arcos están decorados con diamantes y cajeados simulados, un recurso también clásico sacado de los tratados de arquitectura al uso. Este motivo se repite también en los intradoses de los arcos de la escalera, aunque con más decoración, y también en el intradós de las arcadas de la loggia del piso superior.
 
 El patio está organizado de forma axial desde la puerta, llevando a una escalera monumental que sí está documentada como creada por el Bergamasco, que de hecho usándola como portafolio fue contratado por Felipe II para que construyera una similar en el Escorial. La escalera ocupa toda la parte trasera del palacio, teniendo un tramo de subida que se bifurca llegando a dos descansillos con sendas hornacinas ocupadas por esculturas (ver más adelante) y dos tramos de subida adicionales. Todos los tramos están cubiertos por bóvedas de cañón afrescadas, siguiendo un programa iconográfico centrado en la fama, las victorias militares y las virtudes del buen soldado español (ver también más adelante).
-![Escalera monumental](img/escalera.jpg)
+
+![Escalera monumental](img/escalera.jpg){height=3in}
 
 Esta escalera sería la primera escalera imperial construida en España, y de hecho su novedad y carácter monumental haría que su arquitecto la adoptara también en El Escorial, aunque con otra configuración abierta en vez de cerrada con bóvedas. En esta escalera, una vez más, se integra la arquitectura simulada con la real alternando arcos decorados con diamantes y florones en el intradós, con trampantojos que simulan mármoles de colores. Esta decoración de los intradoses retoma y potencia los motivos simples de la planta baja, siguiendo una jerarquía visual que parte de lo simple en la planta baja, usando motivos más complicados según se va subiendo; a esto responde el uso de capiteles dóricos en la planta baja y jónicos en la alta, por ejemplo, y el uso de motivos simulados en la planta baja y reales en la segunda planta.
 
@@ -68,7 +69,7 @@ Esta escalera sería la primera escalera imperial construida en España, y de he
 
 ### Esculturas de la escalera
 
-El palacio tiene un programa iconográfico que incluye una serie de esculturas simuladas en grisalla de color dorado. Las dos esculturas que se incluyen en el mismo representan al propio Álvaro de Bazán como Neptuno y Marte. Además hay una estatuas sepulcrales en la salida hacia el jardín, que no están accesibles.
+El palacio tiene un programa iconográfico que incluye una serie de esculturas simuladas en grisalla de color dorado. Las dos esculturas que se incluyen en el mismo representan al propio Álvaro de Bazán como Neptuno y Marte. Además hay una estatuas sepulcrales en la salida hacia el jardín, que no están accesibles y que no comentaremos.
 
 ![Álvaro de Bazán como Neptuno](img/neptuno.jpg)
 
