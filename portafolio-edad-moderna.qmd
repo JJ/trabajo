@@ -64,11 +64,15 @@ El patio está organizado de forma axial desde la puerta, llevando a una escaler
 
 ![Escalera monumental](img/escalera.jpg){height=3in}
 
-Esta escalera sería la primera de tipo imperial construida en España, y de hecho su novedad y carácter monumental haría que su arquitecto la adoptara también en El Escorial, aunque con otra configuración abierta en vez de cerrada con bóvedas. En esta escalera, una vez más, se integra la arquitectura simulada con la real alternando arcos decorados con diamantes y florones en el intradós, con trampantojos que simulan mármoles de colores. Esta decoración de los intradoses retoma y potencia los motivos simples de la planta baja, siguiendo una jerarquía visual que parte de lo simple en la planta baja, usando motivos más complicados según se va subiendo; a esto responde el uso de capiteles dóricos en la planta baja y jónicos en la alta, por ejemplo, y el uso de motivos simulados en la planta baja y reales en la segunda planta.
+Esta escalera sería la primera de tipo imperial construida en España, y de hecho su novedad y carácter monumental haría que su arquitecto la adoptara también en El Escorial [@lopez2007pintores], aunque con otra configuración abierta en vez de cerrada con bóvedas. En esta escalera, una vez más, se integra la arquitectura simulada con la real alternando arcos decorados con diamantes y florones en el intradós, con trampantojos que simulan mármoles de colores. Esta decoración de los intradoses retoma y potencia los motivos simples de la planta baja, siguiendo una jerarquía visual que parte de lo simple en la planta baja, usando motivos más complicados según se va subiendo; a esto responde el uso de capiteles dóricos en la planta baja y jónicos en la alta, por ejemplo, y el uso de motivos simulados en la planta baja y reales en la segunda planta.
 
 Las estancias superiores dejan la decoración a la pintura, usando capiteles jónicos o corintios simulados que continúan en el artesonado también decorado con frescos y separado de la pared por una moldura estucada. Algunas de las estancias están decoradas con chimeneas también con un frontón partido y decoración sobria.
 
-Finalmente, en el eje axial del patio y justo en el centro  y encima de la escalera imperial se sitúa la capilla, un lugar simbólico que la coloca entre los dos descansillos representando la virtud y la fortuna.
+Finalmente, en el eje axial del patio y justo en el centro  y encima de la escalera imperial se sitúa la capilla, un lugar simbólico que la coloca entre los dos descansillos representando la Virtud y la Fortuna. Este frontón partido tiene una altura ligeramente superior a las dos puertas laterales, marcando una vez más la jerarquía visual. A la derecha de la puerta hay una campana sostenida sobre un simple bastidor. 
+
+![Techo de la capilla](img/techo-capilla.jpg)
+
+La capilla se diferencia en varios aspectos, siendo el principal el uso de pilastras reales con capitel jónico y bóveda de cañón en vez de artesonado; también usa estucos mezclados con frescos en la decoración de la misma y en el testero encima del altar. La presencia de los ángeles músicos en estuco en la bóveda presagia ya el barroco, aunque se creó en la misma época que el resto de la decoración. 
 
 Uno de los aspectos en los que el Bergamasco sigue a Vignola, como se ha comentado es en la integración de las arquitecturas simuladas con las reales. Por eso veremos a continuación la pintura en este edificio, para finalizar con la escultura.
 
@@ -129,23 +133,46 @@ En el rellano opuesto se encuentra la imagen de Neptuno también triunfante y re
 #### Análisis descriptivo
 #### Contexto histórico-cultural
 
+## Sagrario de la Cartuja de Granada
+
+### Fábrica y arquitectura del Sagrario
+
 #### Autor
 #### Cronología
-#### Tipología:
+#### Tipología
+
 #### Análisis descriptivo
-#### Contexto histórico-cultural
+
+El Sagrario o *Sancta Sanctórum* está concebido en la arquitectura cartujana como un espacio "oculto" detrás del altar y destinado principalmente a la adoración privada de los cartujos por separado de los frailes legos [@lozano2023orden], configurándolo de forma que "proteja del mundo exterior" [@ramos2021arquitectura]. El arquitecto Francisco Hurtado diseñó este espacio como un todo unitario que integra la arquitectura, la escultura y la pintura, tanto al fresco como de caballete, como una *máquina de rezar* y de exaltación de la Comunión y de la orden cartujana; sin embargo, este arquitecto falleció sin llegar a ver su ejecución completada.
+
+Como tal espacio privado, la composición arquitectónica del mismo dirige la mirada hacia la cúpula, y esta cúpula es una espiral de escenas en cuyo centro está el Espíritu Santo, en un círculo dorado que parece romper la estructura de la cúpula, abriéndose al cielo. Los dos óculos reales, al norte (norte-nordeste, en realidad) y al sur (sur-suroeste), dan luz al espacio a cualquier hora del día [@almagro2010planimetria]. Se buscaba que los monjes fueran capaces de entender el significado simbólico de esta decoración, que se divide en dos vertientes: la eucarística y la monástica. La primera es la principal clave de la cúpula, aunque también representa a San Bruno llevando en sus hombros al mundo, pero este es un simple pedestal para la custodia eucarística; San Bruno está alineado con la misma y con el Espíritu Santo y con el centro de la Trinidad, que ocupa el centro de la cúpula.
+
+### Frescos de la cúpula del Sagrario
 
 #### Autor
 #### Cronología
 #### Tipología:
 #### Análisis descriptivo
-#### Contexto histórico-cultural
+
+El planteamiento iconográfico de la cúpula lo describe el propio Palomino hablando de la cúpula del monasterio de El Paular, del mismo autor y realizado a continuación, capítulo XIV del Libro Nono del Tomo Segundo de [@palomino]; aunque hay diferencias, los elementos principales son comunes: 
+
+> En el lugar mas supremo se mirará la Trinidad santísima en un gran trono de nubes, asistida de angeles, y serafines [...] María santísima, coronada reyna de los angeles [...] al otro lado San Juan Bautista, y san Joseph
+
+La profusión de figuras, aunque más contenida y mejor perfilada que la de los Desamparados en Valencia, tiene forma de *apoteosis barroca* [@roman2020pinturas] y ciertas similitudes con la cúpula de la escalera del Escorial creada por Lucas Giordano; en esta apoteosis, la perspectiva se ha realizado con precisión, siguiendo los preceptos matemáticos que el propio Palomino estudió y desarrolló en sus escritos.
+
 
 #### Autor
 #### Cronología
 #### Tipología:
 #### Análisis descriptivo
-#### Contexto histórico-cultural
+
+### Contexto histórico-cultural
+
+Acisclo Antonio Palomino de Castro y Velasco (1655-1726) [@palomino] fue un pintor y tratadista nacido en Córdoba que desarrolló su labor principalmente dentro del barroco andaluz y español. A partir de su contacto con Luca Giordano, llegado a Madrid para un encargo real, se interesaría y desarrollaría su labor en diferentes edificios religiosos como la basílica de los Santos Juanes o de los Desamparados en Valencia aparte de la que nos ocupa, la Cartuja de Granada, de las últimas obras en las que trabajaría antes de su muerte; siendo la última el Sagrario de la Cartuja de El Paular. Siendo la Cartuja una obra de madurez, en ella reflejaría toda su maestría en la composición, la luz, y dominio de la preparación y la técnica pictórica.
+
+En un contexto más amplio, la exaltación de la Eucaristía como sacramento católico forma parte del movimiento de rearme espiritual propiciado por la Contrarreforma del concilio de Trento. Al rechazar la transubstanciación, el protestantismo convirtió a la comunión en un punto de debate. En pinturas tales como esta se trata de mostrar ese concepto abstracto, la presencia en cuerpo y sangre de cristo en la comunión, de forma simbólica y comprensible para todos, aparte de resaltar el triunfo de la Comunión sobre los pecados del mundo, simbolizados por la custodia culminando la bola del mundo.
+
+Esta devoción eucarística, centrada en el Sagrario como tipología arquitectónica típica de las cartujas españolas, tienen su culmen en este, y su foco en la cúpula, verdadero centro iconográfico y también religioso de la misma [@deCeballos], con el contexto añadido del recogimiento y silencio característico de la orden cartuja.
 
 ## Créditos de las imágenes
 
