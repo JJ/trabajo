@@ -89,11 +89,11 @@ Aunque no hay atribución exacta, se cree que son de Giovanni Battista Perolli, 
 
 #### Cronología
 
-Se hicieron junto con el resto de la decoración del palacio, es decir, los últimos años del siglo XVI, son saber concretar cuando fue.
+Se hicieron junto con el resto de la decoración del palacio, es decir, los últimos años del siglo XVI, sin saber concretar cuando fue, aunque la documentación indica que se comenzó la decoración desde la planta baja y se avanzó hacia la planta noble.
 
 #### Tipología
 
-Son esculturas de bulto redondo, realizadas en mármol con dorados, posiblemente en pan de oro [@martinez2023materiales]. La tipología compositiva es la de *Mars Victor* o Marte victorioso. Se trata de una escultura manierista, monumental, de tamaño mayor al real y concebida para ser vista en contrapicado. Las estatuas están en un nicho de piedra jaspeada (posiblemente simulada) con bóveda decorada y sobre un nicho con decoración simple.
+Son esculturas de bulto redondo, realizadas en mármol con dorados, posiblemente en pan de oro [@martinez2023materiales]. La tipología compositiva es la de *Mars Victor* o Marte victorioso y de Neptuno Victorioso. Se trata de una escultura manierista, monumental, de tamaño mayor al real y concebida para ser vista en contrapicado. Las estatuas están en un nicho de piedra jaspeada (posiblemente simulada) con bóveda decorada y sobre un pedestal con decoración escultórica.
 
 #### Análisis descriptivo
 
@@ -109,8 +109,11 @@ Sobre el pedestal y en el interior del nicho, con los hombros a la altura de la 
 
 Los dorados se han usado como resaltes de la armadura, flecos, correa diagonal y para los ataharres de la sandalia, posiblemente como contraste de la cabeza del enemigo vencido. 
 
-En el rellano opuesto se encuentra la imagen de Neptuno también triunfante y realizado con el mismo material.
+En el rellano opuesto se encuentra la imagen de Neptuno también triunfante y realizado con el mismo material; el marco es similar y la decoracion del arco en grisalla también muy similar, salvo que hay algúna caracola, posiblemente en referencia a la cornucopia que representa la fortuna. Esta es también una representación del hombre del renacimiento que es capaz de alcanzar la fama y la fortuna a través de sus decisiones. Neptuno es además el dios marino por excelencia, el que para las tempestades con su *Quos ego*, una imagen también representada en el techo del zaguán. De esta forma el ciclo vital alcanza su plenitud: se comienza en el zaguán con las representaciones de Neptuno, y se concluye con esta estatua "a lo divino" donde Bazán, a través de sus hazañas, ha terminado convirtiéndose en el propio Neptuno [@picciche2025warburg].
 
+Las dos estatuas tienen que entenderse como un todo integral con el programa iconográfico y reflejan también un *cursus honorum* o trayectoria vital del comitente; la posición también es intencionada. Se sube la escalera monumental hacia la derecha y se ve a Álvaro como militar, joven, vital y en un programa iconográfico en la bóveda que enfatiza la *encrucijada* o la elección de la virtud sobre la molicie [@torrijos2007alegoria]. Se sigue ascendiendo por la escalera, se recorre la planta superior que incluye representaciones de ciudades y batallas, así como la estirpe de los Bazán y las virtudes del varón renacentista, y se desciende por la otra escalera, encontrándonos con Neptuno donde Bazán, representado como un anciano sabio, de larga barba, representa la Fortuna a la que se ha llegado a través del esfuerzo y de la virtud cristiana. Una vez más, una concepción integral que es humanista y renacentista en sus temas y casi barroca en su presentación teatral de la vida de una persona.
+
+Donde efectivamente este programa iconográfico se completa es en los frescos del edificio, que veremos a continuación.
 
 ### Frescos del edificio
 
