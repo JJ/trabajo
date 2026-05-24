@@ -176,10 +176,21 @@ En la imagen la Fortuna, desde el cielo, se sirve de Neptuno, es decir, del prop
 
 En resumen, se trata de un programa iconográfico complejo, con una fuerte intervención del comitente, que muestra claramente el *cursus honorum* y la formación de Álvaro de Bazán. En conjunto se trata de un patrimonio único por su concepción manierista al estilo genovés que tuvo una gran influencia en el inicio del Barroco en España.
 
-
-
-
 ### Contexto histórico-cultural
+
+España no anda falta de etapas en su historia en las que un noble ha mirado la oferta existente y ha pensado "Uf, no hay nada que me guste. A ver qué se cuece en Italia". Sobre todo nobles que, como Álvaro de Bazán, habían visto en Italia como su amigo Andrea Doria encontraba arte y arquitectura a su medida.
+
+En todo caso, el Renacimiento y especialmente la última mitad del siglo XVI nos muestra una España con un nivel de arquitectura notable en conocimiento técnico y de las modas importadas de Italia, pero bastante inferior en escultura y pintura, especialmente pintura al fresco. 
+
+Felipe II se convirtió en rey en 1556 y decidió erigirse en máximo defensor de la fe católica. En ese contexto se entienden las múltiples batallas en las que participó Álvaro de Bazán, de las cuales la principal fue la batalla de Lepanto que enfrentó a la Liga Santa convocada por el Papa. Una victoria táctica muy clara cuyas consecuencias estratégicas fueron bastante escasas, al menos para España. 
+
+Por si fuera poco luchar contra el infiel, Felipe II se encontraba también luchando con una serie de correligionarios: tuvo que luchar también para imponerse como sucesor de Sebastián I de Portugal en contra del prior de Crato y en contra de las tropas francesas que acudieron en su ayuda. En varias de estas acciones fue una vez más decisivo Álvaro de Bazán, que también ayudó a derrotar diferentes incursiones de corsarios ingleses en las costas españolas.
+
+En este contexto de guerra interminable, las finanzas del rey no podían ejercer ningún tipo de mecenazgo sobre las artes y los artistas, aparte de la declarada preferencia de Felipe II por artistas italianos como Ticiano o Sofonisba Anguissola. Estos influyeron en la pintura de esa época, con artistas como Sánchez Coello adoptando los manierismos de Anguissola y otros como "El Mudo" aprendiendo, a través de los cuadros copiados, de Ticiano y otros autores italianos.
+
+En la imaginería predomina la imagen religiosa; la imagen de la nobleza está dominada por la funeraria. Por eso irrumpe con tanta fuerza [@checa:pinturayescultura] el programa iconográfico del Viso del Marqués, dando una imagen completa con raíces humanistas del noble, pero demás aportando un programa decorativo basado en los grutescos y la arquitectura simulada que evolucionaría hacia la decoración de El Escorial.
+
+En general, y como se afirma en "Invariantes castizos", el arte en España es de "aluvión". Este aluvión, al menos, creó un delta sumamente fértil donde florecería la pintura, la escultura y la arquitectura en las décadas sucesivas.
 
 #### Autor
 #### Cronología
@@ -200,6 +211,8 @@ En resumen, se trata de un programa iconográfico complejo, con una fuerte inter
 #### Contexto histórico-cultural
 
 ## Sagrario de la Cartuja de Granada
+
+El Sagrario de la Cartuja se construyó a principios del siglo XVIII; con sus esculturas y frescos será lo elegido para este siglo.
 
 ### Fábrica y arquitectura del Sagrario
 
