@@ -131,7 +131,7 @@ Por otro lado, Battista Perolli trajo a una serie de ayudantes entre los que se 
 
 La etapa decorativa el palacio comenzó a partir de 1574, terminándose en torno a 1589, más o menos cuando el resto del palacio. Algunas partes puede que se concluyeran con anterioridad, como se muestra en los mismos frescos: "Acabóse el año de MDLXXXVI".
 
-![Acabóse en 1586](img/acabose.jpg)
+![Acabóse en 1586](img/acabose.jpg){height=3in}
 
 #### Tipología
 
@@ -150,9 +150,11 @@ Dentro del "libro de memoria" hay ilustraciones relacionadas con diferentes epis
 
 Las esquinas del patio están dedicadas a representación de las naciones más importantes en relación con el personaje. A la derecha, el lado del bien y la justicia, las aliadas, España e Italia; a la izquierda, el mal, el imperio otomano y Francia; fuera del flujo narrativo, trata de proyectar la imagen del marqués como un guerrero-humanista [@teos1999casa] y como "conocedor de las naciones" [@mateos1994sala] siguiendl el ideal humanista de Castiglione. Todas estas alegorías siguen el mismo esquema narrativo: una representación de la nación como una diosa en un carro soportada por cuatro pechinas en las que se incluyen alegorías de diferentes ciudades y enmarcados por estas y encima de los frontones de las puertas que hay en las esquinas, estatuas simuladas en grisalla dorada con personajes representativos de estas naciones representados de forma real o alegórica. Por ejemplo, en la esquina española se incluye una representación de Carlos V y Felipe II como emperadores o generales romanos.
 
-![Alegoría de España en una esquina del patio](img/españa.jpg)
+![Alegoría de España en una esquina del patio](img/españa.jpg){height=3in}
 
 Se usa grisalla dorada para que destaquen sobre la grisalla del color habitual que simula una venera y que se continúa de forma más o menos sutil con las molduras de la esquina; este color simula bronce para proyectar una idea de nobleza. Usando el recurso de la *kalokagathia*, se muestra al enemigo turco con aspecto menos noble y casi racista. Del enemigo francés no se hace burla, pero sí aparece el rey francés, Francisco I, apuntando a la esquina donde se encuentra la alegoría de Turquía. Es decir, estas pinturas cumplen una función documental y educativa para los visitantes al palacio.
+
+En la galería superior, el techo está ilustrado por diferentes alegorías entre grutescos, algunas de las cuales están bastante deterioradas. Encima de las alegorías de las naciones hay alegorías de los diferentes reinos que pertenecen a España
 
 La narrativa del viaje del héroe comienza en el zaguán, con un programa iconográfico que tiene en el centro a Neptuno con atributos de "Quod ego", parando a los vientos. Como introducción al espacio narrativo, Neptuno puede tanto representar un ideal heroico como un "padre putativo", con cierta relación con Álvaro de Bazán "el viejo", también marino como él, y de hecho persona de la que parte la idea de la construcción de este palacio.
 
@@ -160,11 +162,19 @@ Siguiendo el eje del patio nos encontramos con el tramo de subida a la escalera,
 
 Las bóvedas a derecha e izquierda de la escalera romperían esta progresión narrativa y podrían situarse más en el área de la ilustración o documentación. Ambas se corresponden, y hablan de la fundación de Roma con diferentes escenas relacionadas con la misma. En realidad cuando se llega a este descansillo la vista se dirige hacia la derecha. El siguiente descansillo nos situaría en la encrucijada [@torrijos2007alegoria] con el fresco de la bóveda y la estatua de Bazán como Marte (vista anteriormente) formando un todo iconográfico unitario.
 
-![El guerrero en la encrucijada, delante de Venus (de espaldas) y Minerva](img/encrucijada.jpg)
+![El guerrero en la encrucijada, delante de Venus (de espaldas) y Minerva](img/encrucijada.jpg){height=3in}
 
 Esta bóveda representa a un soldado delante de dos diosas: una de espaldas, y vestida sola con una túnica ligera, y una segunda con lorica y armada con un escudo. El guerrero, a la izquierda de la imagen, señala a esta última, que se lleva la mano al pecho como admitiendo la elección. Tras las bóvedas de los trabajos de Hércules y los vicios, en este punto vital Bazán el soldado hace su elección: elige las armas y la virtud, sabiendo que es un camino duro, pero que eventualmente le llevará a la fama [@lopez2020lugar]. La bóveda por encima de la estatua de Bazán como Marte muestra la Victoria, recalcando que es la elección correcta. El tramo siguiente, de subida reafirma este mensaje, representando a la fama y la victoria a la que se llega a través de la Virtud.
 
+El programa iconográfico al que se llega inmediatamente en la planta superior muestra a su familia en el dormitorio, a su estirpe y las batallas ganadas por los mismos, y una serie de habitaciones inspiradas en textos clásicos como las Metamorfosis de Ovidio, con héroes y heroinas tentados por los dioses y premiados o castigados por los mismos. La planta superior, así mismo, muestra batallas y planos de ciudades como Venecia.
 
+Estas ciudades demuestran una vez más el conocimiento del mundo pero también al ser escenarios de batallas el camino que ha recorrido el héroe. Y nos lleva al tramo de descenso de las escaleras. En la bóveda del descansillo donde se encuentra Bazán como Neptuno nos encontramos con alegorías de la Fortuna.
+
+![Neptuno como vehículo de la Fortuna](img/neptuno-fortuna.jpg){height=3in}
+
+En la imagen la Fortuna, desde el cielo, se sirve de Neptuno, es decir, del propio Bazán, para ayudar y salvar del naufragio a las dos figuras. Bien es sabido que la Fortuna ayuda a los audaces y Bazán lo era; con el emparejamiento de la Fortuna y la Virtud/Fama se sigue el lema *virtute duce, comite fortuna*: la virtud como guía, la fortuna como compañera.
+
+En resumen, se trata de un programa iconográfico complejo, con una fuerte intervención del comitente, que muestra claramente el *cursus honorum* y la formación de Álvaro de Bazán. En conjunto se trata de un patrimonio único por su concepción manierista al estilo genovés que tuvo una gran influencia en el inicio del Barroco en España.
 
 
 
