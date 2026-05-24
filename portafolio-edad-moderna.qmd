@@ -79,7 +79,7 @@ Uno de los aspectos en los que el Bergamasco sigue a Vignola, como se ha comenta
 
 ### Esculturas de la escalera
 
-El palacio tiene un programa iconográfico que incluye una serie de esculturas simuladas en grisalla de color dorado. Las dos esculturas que se incluyen en el mismo representan al propio Álvaro de Bazán como Neptuno y Marte. Además hay una estatuas sepulcrales en la salida hacia el jardín, que no están accesibles y que no comentaremos.
+El palacio tiene un programa iconográfico que incluye una serie de esculturas simuladas en grisalla de color dorado. Las dos esculturas que se incluyen en el mismo representan al propio Álvaro de Bazán como Neptuno y Marte; en estas serán en las que nos fijemos. Además hay una estatuas sepulcrales en la salida hacia el jardín, que no están accesibles y que no comentaremos, como tampoco comentaremos los estucos que decoran la capilla ni los fanales marinos situados encima de los marcos de las puertas.
 
 ![Álvaro de Bazán como Neptuno](img/neptuno.jpg){height=3in}
 
@@ -93,13 +93,19 @@ Se hicieron junto con el resto de la decoración del palacio, es decir, los últ
 
 #### Tipología
 
-Son esculturas de bulto redondo, realizadas en mármol con dorados, posiblemente en pan de oro. La tipología compositiva es la de *Mars Victor* o Marte victorioso. Se trata de una escultura manierista, monumental, de tamaño mayor al real y concebida para ser vista en contrapicado. Las estatuas están en un nicho de piedra jaspeada (posiblemente simulada) con bóveda decorada y sobre un nicho con decoración simple.
+Son esculturas de bulto redondo, realizadas en mármol con dorados, posiblemente en pan de oro [@martinez2023materiales]. La tipología compositiva es la de *Mars Victor* o Marte victorioso. Se trata de una escultura manierista, monumental, de tamaño mayor al real y concebida para ser vista en contrapicado. Las estatuas están en un nicho de piedra jaspeada (posiblemente simulada) con bóveda decorada y sobre un nicho con decoración simple.
 
 #### Análisis descriptivo
 
 ![Alvaro de Bazán como César](img/bazan-como-cesar.jpeg){height=3in}
 
-Subiendo desde el patio en el descansillo de la derecha se encuentra la estatua de Álvaro de Bazán como Marte y vestido como general romano, con vara de mando y *lorica* y casco emplumado. La pierna derecha, levantada, pisa en una postura denominada *calcatio* la cabeza de una persona con aspecto de turco, turbante y grandes bigotes. La escultura se encuentra en un nicho decorado en su bóveda con escenas de batallas, potenciando ese aspecto de luchador victorioso en una *psicomaquia* o lucha contra el mal.
+> En [esta dirección](https://www.flickr.com/photos/atalaya/55284202840/in/album-72177720319613040) hay un vídeo que recorre la escalera entre las dos estatuas, mostrando su posición relativa, inclusión en la decoración e iluminación.
+
+Subiendo desde el patio en el descansillo de la derecha se encuentra la estatua de Álvaro de Bazán, en un nicho con una bóveda semiesférica decorada. La estatua se sitúa sobre un pedestal y está enmarcada por dos pilastras acanaladas terminadas en una moldura triple que recorre el interior del nicho. El arco sobre la bóveda semiesférica está decorado con trofeos militares en grisalla. El descansillo donde se encuentran está iluminado por un ventanal, recibiendo las mismas luz natural durante gran parte del día.
+
+La integración de escultura, arquitectura y pintura se acerca al *bel composto* barroco y lo presagia [@teos1999casa].
+
+Sobre el pedestal y en el interior del nicho, con los hombros a la altura de la moldura, se encuentra la estatua de Álvaro de Bazán como Marte y vestido como general romano, con vara de mando y *lorica* y casco emplumado. La pierna derecha, levantada, pisa en una postura denominada *calcatio* la cabeza de una persona con aspecto de turco, turbante y grandes bigotes. La escultura se encuentra en un nicho decorado en su bóveda con escenas de batallas, potenciando ese aspecto de luchador victorioso en una *psicomaquia* o lucha contra el mal.
 
 Los dorados se han usado como resaltes de la armadura, flecos, correa diagonal y para los ataharres de la sandalia, posiblemente como contraste de la cabeza del enemigo vencido. 
 
