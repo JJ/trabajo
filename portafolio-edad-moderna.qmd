@@ -30,7 +30,7 @@ En este apartado nos referiremos al edificio en sí.
 
 #### Autor
 
-Encargo de Álvaro de Bazán, se cree que puede tener trazas de Enrique Egas "El Mozo" o incluso de Covarrubias ([@martinez2023materiales] citando a [@alma991007469429704990, p. 381]), aunque este dice "quizá". Se sabe que la escalera la proyectó Giovanni Battista Castello llamado El Bergamasco, que actuó como maestro de obras junto con un tal Olamasquín o posiblemente Cremaschino, es decir, Juan Bautista Perolli. A este se atribuye en muchas obras como El Siglo del Renacimiento [@alma991003192069704990, p84] su autoría de forma exclusiva.
+Encargo de Álvaro de Bazán, se cree que puede tener trazas de Enrique Egas "El Mozo" o incluso de Covarrubias ([@martinez2023materiales] citando a [@alma991007469429704990, p. 381]), aunque este dice "quizá". Se sabe que la escalera la proyectó Giovanni Battista Castello llamado El Bergamasco, que actuó como maestro de obras junto con un tal Olamasquín o posiblemente Cremaschino, es decir, Gian Battista Perolli que posteriormente se llamaría Juan Bautista Peroli. A este se atribuye en muchas obras como El Siglo del Renacimiento [@alma991003192069704990, p84] su autoría de forma exclusiva.
 
 #### Cronología
 
@@ -120,7 +120,19 @@ Donde efectivamente este programa iconográfico se completa es en los frescos de
 Los frscos cubren las paredes de las habitaciones y patio y las bóvedas y techos de los mismos. Trataremos de concentrarnos sobre todo en los frescos clave, los que entran en diálogo con las esculturas y la arquitectura de forma más estrecha. La principal referencia en este apartado es [@lopez2020lugar].
 
 #### Autor
+
+El autor principal es Battista Perolli, genovés, si bien era costumbre en los palacios genoveses que el arquitecto principal, en este caso el Bergamasco, tuviera la dirección de todo el programa constructivo y decorativo, así que cabe esperar que la contribución del mismo sea considerable. Este Peroli, Perolli, Olamasquin o Cremaschino es también el escultor de Marte y Neptuno, como ya hemos visto.
+
+Por otro lado, Battista Perolli trajo a una serie de ayudantes entre los que se mencionan Cesare de Bellis, Esteban Perolli (al parecer sobrino de Battista) y finalmente Juan Esteban Peroli (con el apellido ya españolizado, es hijo de Battista).
+
 #### Cronología
+
+La etapa decorativa el palacio comenzó a partir de 1574, terminándose en torno a 1589, más o menos cuando el resto del palacio. Algunas partes puede que se concluyeran con anterioridad, como se muestra en los mismos frescos: "Acabóse el año de MDLXXXVI".
+
+![Acabóse en 1586](img/acabose.jpg)
+
+
+
 #### Tipología:
 #### Análisis descriptivo
 
