@@ -238,7 +238,7 @@ El retablo en el que se encuentra ahora mismo es muy posterior, del siglo XVIII 
 
 ### Pintura de la cúpula
 
-La pintura se llevó a cabo en dos etapas, la primera en 1662-66 en la que se realiza la cúpula y algunos adornos y la segunda a partir de 1698 por parte principalmente de Luca Giordano. Nos centraremos en la primera, ya que este edificio ha sido elegido como muestra del arte del siglo XVII. También evitamos los cuadros que decoran las capillas.
+La pintura se llevó a cabo en dos etapas, la primera en 1662-66 en la que se realiza la cúpula y algunos adornos y la segunda a partir de 1698 por parte principalmente de Luca Giordano. Nos centraremos en la primera, ya que este edificio ha sido elegido como muestra del arte del siglo XVII. También evitamos los cuadros que decoran las capillas, porque aunque son los único de la misma época que la construcción de la iglesia, constituyen un programa iconográfico ligeramente diferente.
 
 #### Autor
 
@@ -253,6 +253,13 @@ Entre 1662 y 1666; por lo tanto, muy posterior a la construcción del tempo, per
 Se trata de pintura al fresco.
 
 #### Análisis descriptivo
+
+![Apoteosis de San Antonio de Padua](img/apoteosis-san-antonio.jpg)
+
+La cúpula ovalada se asienta sobre un tambor de la misma forma; las ventanas reales del tambor se continúan don frontones triangulares partidos con cupulillas circulares simuladas; están separadas por nichos sobre putti que ejercen como atlantes soportando una cornisa con columnas salomónicas simuladas y terminado en un frontón partido con volutas. Estos frontones son molduras reales, que dan paso a una serie de arcos con un tambor adicional simulado y un friso decorado con escudos. Las columnas salomónicas fueron añadidas sobre las lisas originales por Luca Giordano [@castano2021detras].
+Este friso está partido a la derecha de la imagen, perpendicular al escudo y marcando la axialidad del óvalo en su eje mayor, por un grumo de nubes y putti sobre el cual se encuentra San Antonio de Padua; San Antonio se situaría por tanto encima del altar, con el escudo de Portugal encima de la entrada a la iglesia.
+
+
 #### Contexto histórico-cultural
 
 ## Sagrario de la Cartuja de Granada
