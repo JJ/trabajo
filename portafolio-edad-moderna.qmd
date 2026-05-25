@@ -192,11 +192,36 @@ En la imaginería predomina la imagen religiosa; la imagen de la nobleza está d
 
 En general, y como se afirma en "Invariantes castizos", el arte en España es de "aluvión". Este aluvión, al menos, creó un delta sumamente fértil donde florecería la pintura, la escultura y la arquitectura en las décadas sucesivas.
 
+## San Antonio de los Alemanes
+
+Como en el caso del siglo XV, escogemos un solo edificio; tratándose de una obra barroca, cabe esperar la integración de todas las artes; sin embargo, gran parte de la obra escultórica, sobre todo decorativa, que se ve hoy en día es posterior, por lo que nos fijaremos inicialmente en una escultura a que, aunque no está integrada artísticamente con el edificio, sí encaja perfectamente con el origen y el significado iconográfico del mismo.
+
+### San Antonio de Padua en el altar, de Manuel Pereira
+
+Hay dos esculturas con el mismo tema y autor. Escogeremos la que está situada en el altar
+
 #### Autor
+
+Manuel Pereira
+
 #### Cronología
-#### Tipología:
+
+1631-1633
+
+#### Tipología
+
+Imagen de madera de pino policromada y ahuecada [@guzman08]
+
 #### Análisis descriptivo
-#### Contexto histórico-cultural
+
+![San Antonio de Padua de Manuel Pereira](img/san-antonio.jpg)
+
+San Antonio de Padua, con tez oscura que denota su procedencia de Portugal y hábito franciscano, tiene la cabeza ligeramente ladeada mirando, con ojos caídos, a un Niño. El Niño alarga la mano tratando de alcanzar una rama de lirios de plata que San Antonio agarra con su mano izquierda. Con la mano derecha, San Antonio sostiene un libro cerrado sobre el que, a su vez, se encuentra el Niño. El niño tiene en su mano izquierda un orbe.
+
+Todo ello corresponde a la iconografía tradicional de San Antonio de Padua, un santo franciscano nacido en Lisboa y muerto en Padua, de ahí su nombre. Pero la consagración a este santo se debe a que inicialmente la iglesia se creó para la comunidad portuguesa; esto posiblemente también explica el encargo a Manuel Pereira, de origen portugués, de esta talla.
+
+
+### Fábrica de la iglesia de San Antonio de los Portugueses
 
 #### Autor
 #### Cronología
