@@ -234,7 +234,10 @@ El retablo en el que se encuentra ahora mismo es muy posterior, del siglo XVIII 
 #### Cronología
 #### Tipología:
 #### Análisis descriptivo
-#### Contexto histórico-cultural
+
+### Contexto histórico-cultural
+
+La época de construcción y decoración de esta iglesia abarcan prácticamente todo el siglo XVII, el siglo de Oro en el que florecen las artes y las letras, un siglo caracterizado por la tensión entre las reglas gremiales y la liberalidad de las artes y por el inicio del academicismo. Como el siglo anterior, también por la importación de modelos e incluso artistas extranjeros, sobre todo italianos. 
 
 ### Pintura de la cúpula
 
@@ -242,7 +245,7 @@ La pintura se llevó a cabo en dos etapas, la primera en 1662-66 en la que se re
 
 #### Autor
 
-Juan Carreño de Miranda (principales motivos de la cúpula) y Francisco Rizi (sobre todo trampantojos) [@arranz_1999]. Como se ha indicado en la introducción, las aportaciones de Luca Giordano son posteriores y no serán objeto de este análisis.
+Juan Carreño de Miranda (principales motivos de la cúpula) y Francisco Rizi (sobre todo trampantojos) [@Arranz_1999]. Como se ha indicado en la introducción, las aportaciones de Luca Giordano son posteriores y no serán objeto de este análisis.
 
 #### Cronología
 
