@@ -284,8 +284,15 @@ El Sagrario de la Cartuja se construyó a principios del siglo XVIII; con sus es
 
 ### Fábrica y arquitectura del Sagrario
 
+![El sagrario visto desde el exterior](img/cartuja-exterior.jpg)
+
 #### Autor
+
+Francisco Hurtado
+
 #### Cronología
+
+
 #### Tipología
 
 #### Análisis descriptivo
@@ -296,9 +303,19 @@ Como tal espacio privado, la composición arquitectónica del mismo dirige la mi
 
 ### Frescos de la cúpula del Sagrario
 
+Aunque hay otras pinturas del mismo Palomino en el Sagrario, y también forman parte del mismo programa iconográfico, nos centraremos en los frescos. 
 #### Autor
+
+Antonio Palomino
+
 #### Cronología
-#### Tipología:
+
+Comenzado en 1712.
+
+#### Tipología
+
+Se trata de im fresco pero realizado de una manera descrita por él mismo en su tratado [@palomino]; lo denomina "labrada y empastada". Aunque no se han hecho catas y por tanto no se conoce la técnica precisa, otros investigadores [@soriano2008frescos] que han intervenido en la restauración de obras suyas en Valencia, cuentan que se usan morteros internos basados en yeso y no en cal. Esto permite que se agarren con más firmeza a la pared. Esto está confirmado en la nota 3 a pie de página de [@soriano2008frescos].
+
 #### Análisis descriptivo
 
 El planteamiento iconográfico de la cúpula lo describe el propio Palomino hablando de la cúpula del monasterio de El Paular, del mismo autor y realizado a continuación, capítulo XIV del Libro Nono del Tomo Segundo de [@palomino]; aunque hay diferencias, los elementos principales son comunes: 
