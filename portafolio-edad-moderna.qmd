@@ -250,7 +250,7 @@ La pintura se llevó a cabo en dos etapas, la primera en 1662-66 en la que se re
 
 #### Autor
 
-Juan Carreño de Miranda (principales motivos de la cúpula) y Francisco Rizi (sobre todo trampantojos) [@Arranz_1999]. Como se ha indicado en la introducción, las aportaciones de Luca Giordano son posteriores y no serán objeto de este análisis.
+Juan Carreño de Miranda (principales motivos arquitectónicos de la cúpula) y Francisco Rizi (sobre todo trampantojos) [@Arranz_1999]. Como se ha indicado en la introducción, las aportaciones de Luca Giordano son posteriores y no serán objeto de este análisis.
 
 #### Cronología
 
@@ -274,6 +274,10 @@ Los diferentes planos se crean mediante *sfumati* o gradaciones de color, que va
 Aunque la ejecución de esta cúpula es de Rizi, se conservan [en el Museo del Prado dibujos preparatorios](https://www.museodelprado.es/coleccion/obra-de-arte/apunte-para-la-vision-de-san-antonio-de-padua-la/82b84a87-093d-43ae-bed8-eff5d273888a) que están basados en otros bocetos anteriores de Angelo Michele Colonna  [@arranz_1999]. En algunos artículos se atribuye a este, junto con Agostino Mitelli, la concepción general de la cúpula, cuya ejecución está acreditada por Rizi, entroncando así estos primeros pasos del barroco decorativo madrileño con el boloñés de Rizi. 
 
 Sin embargo, el momento que refleja, el de la llamada visión de San Antonio de Padua, ha sido representado a menudo en el barroco hispano. Sentado en su estudio en el sur de Francia, el santo es visitado por el Niño Jesús, que le muestra el cielo; la luz celestial que emana de la habitación es contemplada por el casero, que consigue tener también un atisbo de esa visión celestial. [La "Visión de San Antonio de Padua"](https://www.archisevillasiempreadelante.org/vision-san-antonio-padua-murillo/), de Murillo, usa una composición del Niño y San Antonio similar; [el cuadro de Carducho](https://www.epdlp.com/cuadro.php?id=3596), maestro de Rizi, muestra una composición lineal entre Virgen, Niño y San Antonio que evoca la de esta iglesia. La alusión al barroco boloñés plasmada en la historiografía clásica es tentadora, pero en este caso me inclinaría más por una genealogía totalmente local. 
+
+![Línea que une a los dos San Antonios de Padua en la iglesia](img/san-antonio-linea.jpg)
+
+La línea que une la estatua de Pereira con los frescos de Rizi permite efectuar un ejercicio de *paragone* o comparación de la capacidad expresica de pintura y escultura en la que me temo que la escultura no queda muy bien parada. Tomándolo en positivo, sin embargo, y asumiendo que es un *bel composto* barroco, lo que no es totalmente improbable al menos en el momento en el que se hicieron los frescos, podemos asumir que los frescos en el nivel superior representan el momento del *vuelo* y en el nivel de la estatua el momento final, cuando el niño ya ha "aterrizado" sobre el libro y se están mirando, quizás para despedirse.
 
 Y no solo eso, una pieza que traería descendencia, como veremos más adelante en el Sagrario de La Cartuja.
 
