@@ -7,7 +7,7 @@ author:
   - name: JJ Merelo
     email: jjmerelo@correo.ugr.es
     affiliations:
-      - name: 2º A Historia del Arte de la Edad Moderna en España
+      - name: 2ºA Historia del Arte de la Edad Moderna en España
 ---
 
 # Portafolio de Historia del Arte de la Edad Moderna en España
@@ -198,7 +198,7 @@ Como en el caso del siglo XV, escogemos un solo edificio; tratándose de una obr
 
 ### San Antonio de Padua en el altar, de Manuel Pereira
 
-Hay dos esculturas con el mismo tema y autor. Escogeremos la que está situada en el altar
+Hay dos esculturas con el mismo tema y autor. Escogeremos la que está situada en el altar.
 
 #### Autor
 
@@ -235,10 +235,6 @@ El retablo en el que se encuentra ahora mismo es muy posterior, del siglo XVIII 
 #### Tipología:
 #### Análisis descriptivo
 
-### Contexto histórico-cultural
-
-La época de construcción y decoración de esta iglesia abarcan prácticamente todo el siglo XVII, el siglo de Oro en el que florecen las artes y las letras, un siglo caracterizado por la tensión entre las reglas gremiales y la liberalidad de las artes y por el inicio del academicismo. Como el siglo anterior, también por la importación de modelos e incluso artistas extranjeros, sobre todo italianos. 
-
 ### Pintura de la cúpula
 
 La pintura se llevó a cabo en dos etapas, la primera en 1662-66 en la que se realiza la cúpula y algunos adornos y la segunda a partir de 1698 por parte principalmente de Luca Giordano. Nos centraremos en la primera, ya que este edificio ha sido elegido como muestra del arte del siglo XVII. También evitamos los cuadros que decoran las capillas, porque aunque son los único de la misma época que la construcción de la iglesia, constituyen un programa iconográfico ligeramente diferente.
@@ -249,7 +245,7 @@ Juan Carreño de Miranda (principales motivos de la cúpula) y Francisco Rizi (s
 
 #### Cronología
 
-Entre 1662 y 1666; por lo tanto, muy posterior a la construcción del tempo, pero todavía dentro del siglo XVII.
+Entre 1662 y 1666; por lo tanto, muy posterior a la construcción del templo, pero todavía dentro del siglo XVII.
 
 #### Tipología
 
@@ -272,7 +268,15 @@ Sin embargo, el momento que refleja, el de la llamada visión de San Antonio de 
 
 Y no solo eso, una pieza que traería descendencia, como veremos más adelante en el Sagrario de La Cartuja.
 
-#### Contexto histórico-cultural
+### Contexto histórico-cultural
+
+La época de construcción y decoración de esta iglesia abarcan prácticamente todo el siglo XVII, el siglo de Oro en el que florecen las artes y las letras, un siglo caracterizado por la tensión entre las reglas gremiales y la liberalidad de las artes y por el inicio del academicismo. Como el siglo anterior, también por la importación de modelos e incluso artistas extranjeros, sobre todo italianos.
+
+En lo arquitectónico el siglo comienza con la influencia de la arquitectura oficial de Juan de Herrera cuyo influjo se extiende a todos las construcciones. En escultura y pintura, el yugo de la contrarreforma comienza a dar lugar a una serie de formas autóctonas, sobre todo en imaginería religiosa, pero también en pintura religiosa (Murillo, Zurbarán, el Greco) y profana (Velázquez). Y esto sucede en un contexto político donde el país comienza su decadencia con la expulsión de los moriscos, continúa con una serie de hambrunas y epidemias a mitad de siglo, y culmina (o alcanza su nadir) con la muerte de Carlos II.
+
+El papel de este edificio puede haber sido fundamental en esa castización de formas y artistas extranjeros. La planta del edificio parte de modelos italianos de Vignola, Serlio o Volterra pasados por la interiorización de fray Pedro Sánchez a partir de la arquitectura jesuítica (cuyo origen también es extranjero); la "saudade" portuguesa de Pereira se va dulcificando y convirtiéndose en suavidad y ternura en la escuela madrileña. Rizi, descendiente de italianos, toma (posiblemente) los diseños boloñeses de Colonna y los pasa por el tamiz de Carducho para crear una pintura decorativa que se despega del manierismo y apunta ya al barroco decorativo.
+
+Pero, lo más importante, Luca Giordano parece tomar también la precisión doctrinal compositiva  y su ilusionismo y vibración lumínica de Rizi para aplicarla más adelante en sus obras españolas, precisión que asimilaría Antonio Palomino a través de su contacto con él, que veremos a continuación.
 
 ## Sagrario de la Cartuja de Granada
 
