@@ -240,9 +240,15 @@ Fray Pedro Sánchez
 
 #### Tipología
 
-Iglesia de planta oval enmarcada en un edificio octogonal.
+![Planta de la iglesia](img/san-antonio-de-los-alemanes-planta.jpg)
+
+Iglesia de planta oval enmarcada en un rectángulo achaflanado. 
 
 #### Análisis descriptivo
+
+![Vista general desde el eje principal de San Antonio de los Alemanes](img/san-antonio-alemanes-vista-general.jpg)
+
+Uno de los rasgos excepcionales de esta iglesia es la planta ovalada que el arquitecto, fray Pedro Sánchez, trazó. 
 
 ### Pintura de la cúpula
 
@@ -271,7 +277,7 @@ Antonio de Padua, con un libro abierto sostenido por putti a sus pies, mira con 
 
 Los diferentes planos se crean mediante *sfumati* o gradaciones de color, que van del azul al plano celestial al dorado del centro del óvalo, donde parece que se insinúa un espíritu santo irradiante. Toda la composición es de una teatralidad considerable, con las expresiones y los gestos de las manos dirigiendo la mirada del espectador hacia uno u otro lado, creando una narración que exalta la figura de San Antonio como interlocutor celestial. Los efectos de las sombras y pliegues de las ropas de San Antonio, en *chiaroscuro*, acentúan el dramatismo. El manto rojo del Niño y azul de la Virgen parecen ingrávidos, sosteniendo a quien los lleva y con sus pliegues creando efectos de luces y sombras impresionantes.
 
-Aunque la ejecución de esta cúpula es de Rizi, se conservan [en el Museo del Prado dibujos preparatorios](https://www.museodelprado.es/coleccion/obra-de-arte/apunte-para-la-vision-de-san-antonio-de-padua-la/82b84a87-093d-43ae-bed8-eff5d273888a) que están basados en otros bocetos anteriores de Angelo Michele Colonna  [@arranz_1999]. En algunos artículos se atribuye a este, junto con Agostino Mitelli, la concepción general de la cúpula, cuya ejecución está acreditada por Rizi, entroncando así estos primeros pasos del barroco decorativo madrileño con el boloñés de Rizi. 
+Aunque la ejecución de esta cúpula es de Rizi, se conservan [en el Museo del Prado dibujos preparatorios](https://www.museodelprado.es/coleccion/obra-de-arte/apunte-para-la-vision-de-san-antonio-de-padua-la/82b84a87-093d-43ae-bed8-eff5d273888a) que están basados en otros bocetos anteriores de Angelo Michele Colonna  [@Arranz_1999]. En algunos artículos se atribuye a este, junto con Agostino Mitelli, la concepción general de la cúpula, cuya ejecución está acreditada por Rizi, entroncando así estos primeros pasos del barroco decorativo madrileño con el boloñés de Rizi. 
 
 Sin embargo, el momento que refleja, el de la llamada visión de San Antonio de Padua, ha sido representado a menudo en el barroco hispano. Sentado en su estudio en el sur de Francia, el santo es visitado por el Niño Jesús, que le muestra el cielo; la luz celestial que emana de la habitación es contemplada por el casero, que consigue tener también un atisbo de esa visión celestial. [La "Visión de San Antonio de Padua"](https://www.archisevillasiempreadelante.org/vision-san-antonio-padua-murillo/), de Murillo, usa una composición del Niño y San Antonio similar; [el cuadro de Carducho](https://www.epdlp.com/cuadro.php?id=3596), maestro de Rizi, muestra una composición lineal entre Virgen, Niño y San Antonio que evoca la de esta iglesia. La alusión al barroco boloñés plasmada en la historiografía clásica es tentadora, pero en este caso me inclinaría más por una genealogía totalmente local. 
 
@@ -368,5 +374,7 @@ Finalmente, mi impresión es que resulta más educativo escoger obras, aunque se
 ## Créditos de las imágenes
 
 Todas las imágenes son del autor, con licencia cc-by-sa, salvo los casos que se comentan a continuación.
+
+- Planta de San Antonio de los Alemanes, de GMtnz, [trabajo propio publicado con licencia cc-by-sa en la Wikipedia](https://es.wikipedia.org/wiki/Archivo:Fig._6._Planta_de_la_iglesia_de_San_Antonio_de_los_Alemanes_y_del_Hospital_de_la_Hermandad_del_Refugio.png)
 
 ## Referencias
