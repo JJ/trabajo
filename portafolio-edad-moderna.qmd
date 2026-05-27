@@ -303,9 +303,9 @@ Y no solo eso, una pieza que traería descendencia, como veremos más adelante e
 
 La época de construcción y decoración de esta iglesia abarcan prácticamente todo el siglo XVII, el siglo de Oro en el que florecen las artes y las letras, un siglo caracterizado por la tensión entre las reglas gremiales y la liberalidad de las artes y por el inicio del academicismo. Como el siglo anterior, también por la importación de modelos e incluso artistas extranjeros, sobre todo italianos.
 
-En lo arquitectónico el siglo comienza con la influencia de la arquitectura oficial de Juan de Herrera cuyo influjo se extiende a todos las construcciones. En escultura y pintura, el yugo de la contrarreforma comienza a dar lugar a una serie de formas autóctonas, sobre todo en imaginería religiosa, pero también en pintura religiosa (Murillo, Zurbarán, el Greco) y profana (Velázquez). Y esto sucede en un contexto político donde el país comienza su decadencia con la expulsión de los moriscos, continúa con una serie de hambrunas y epidemias a mitad de siglo, y culmina (o alcanza su nadir) con la muerte de Carlos II. Eso explica la pobreza de los materiales con los que se construyó, y posiblemente también por qué el Conde Duque de Olivares escogiera a Pedro Sánchez, acostumbrado a trabajar con los mismos en sus trazas para los jesuitas.
+En lo arquitectónico el siglo comienza con la influencia de la arquitectura oficial de Juan de Herrera cuyo influjo se extiende a todos las construcciones. En escultura y pintura, el yugo de la Contrarreforma comienza a dar lugar a una serie de formas autóctonas, sobre todo en imaginería , pero también en pintura religiosa (Murillo, Zurbarán, el Greco) y profana (Velázquez). Y esto sucede en un contexto político donde el país comienza su decadencia con la expulsión de los moriscos, continúa con una serie de hambrunas y epidemias a mitad de siglo, y culmina (o alcanza su nadir) con la muerte de Carlos II. Eso explica la pobreza de los materiales con los que se construyó, y posiblemente también sea una de las razones por las que el Conde Duque de Olivares escogiera a Pedro Sánchez, acostumbrado a trabajar con los mismos en sus trazas para los jesuitas. 
 
-Esa misma pobreza de materiales explica también el uso del encamonado, que si bien no se originó en esta iglesia sino en otra obra también comenzada por el mismo arquitecto, lo cierto es que marca su popularización y consolidación como estructura arquitectónica para cúpulas en el siglo de Oro. Es también posible que la ligereza de las cúpulas haya permitido liberar a las paredes de todo elemento estructural, aligerándolas también y permitiendo, como en este caso, una decoración completa.
+Esa misma pobreza de materiales explica también el uso del encamonado, que si bien no se originó en esta iglesia sino en otra obra también comenzada por el mismo arquitecto, lo cierto es que marca su popularización y consolidación como estructura arquitectónica para cúpulas en el siglo de Oro. Es también posible que la ligereza de las cúpulas haya permitido liberar a las paredes de todo elemento estructural, aligerándolas también y permitiendo, como en este caso, una decoración integral de los muros.
 
 El papel de este edificio puede haber sido fundamental en esa castización de formas y artistas extranjeros. La planta del edificio parte de modelos italianos de Vignola, Serlio o Volterra pasados por la interiorización del hermano Pedro Sánchez a partir de la arquitectura jesuítica (cuyo origen también es extranjero); la "saudade" portuguesa de Pereira se va dulcificando y convirtiéndose en suavidad y ternura en la escuela madrileña. Rizi, descendiente de italianos, toma (posiblemente) los diseños boloñeses de Colonna y los pasa por el tamiz de Carducho para crear una pintura decorativa que se despega del manierismo y apunta ya al barroco decorativo.
 
@@ -313,7 +313,7 @@ Pero, lo más importante, Luca Giordano parece tomar también la precisión doct
 
 ## Sagrario de la Cartuja de Granada
 
-El Sagrario de la Cartuja se construyó a principios del siglo XVIII; con sus esculturas y frescos será lo elegido para este siglo.
+El Sagrario de la Cartuja se construyó a principios del siglo XVIII; con sus esculturas y frescos será el edificio elegido para este siglo.
 
 ### Fábrica y arquitectura del Sagrario
 
@@ -321,12 +321,14 @@ El Sagrario de la Cartuja se construyó a principios del siglo XVIII; con sus es
 
 #### Autor
 
-Francisco Hurtado
+Francisco Hurtado [@cartuja]
 
 #### Cronología
 
 
 #### Tipología
+
+Se trata de un sagrario cartujano.
 
 #### Análisis descriptivo
 
