@@ -313,7 +313,7 @@ Pero, lo más importante, Luca Giordano parece tomar también la precisión doct
 
 ## Sagrario de la Cartuja de Granada
 
-El Sagrario de la Cartuja se construyó a principios del siglo XVIII; con sus esculturas y frescos será el edificio elegido para este siglo.
+El Sagrario de la Cartuja se construyó a principios del siglo XVIII; con sus esculturas y frescos será el edificio elegido para este siglo. Se trata de un verdadero *bel composto* barroco, al trabajar todos los artífices junto con los propios monjes para dotar de unidad doctrinal, artística y arquitectónica a todo el conjunto, aparte de ser considerado "una de las enseñas más significativas del barroco universal" [@cartuja,@roman2020pinturas].
 
 ### Fábrica y arquitectura del Sagrario
 
@@ -363,11 +363,19 @@ La profusión de figuras, aunque más contenida y mejor perfilada que la de los 
 
 ### Esculturas en el Sagrario
 
+Hay diversas esculturas en el sagrario debidas a José de Mora; también figuras alegóricas en el tabernáculo y una escultura debida a Pedro Duque Cornejo, la Magdalena. Nos fijaremos en esta última, considerada la cumbre de su trabajo [@cartuja].
+
 #### Autor
 
+Pedro Duque Cornejo
 
 #### Cronología
-#### Tipología:
+
+O 1720, o entre 1723 y 1728 [@cartuja]. Según la Wikipedia se habría hecho en la etapa granadina que concluye en 1719.
+
+#### Tipología
+
+Escultura de bulto redondo, policromada, de madera. 
 
 #### Análisis descriptivo
 
