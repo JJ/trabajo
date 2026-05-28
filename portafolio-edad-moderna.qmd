@@ -335,7 +335,13 @@ Se trata de un sagrario cartujano.
 
 #### Análisis descriptivo
 
-El arquitecto Francisco Hurtado diseñó este espacio como un todo unitario que integra la arquitectura, la escultura y la pintura, tanto al fresco como de caballete, como una *máquina de rezar* y de exaltación de la Comunión y de la orden cartujana; sin embargo, este arquitecto falleció sin llegar a ver su ejecución completada.
+El arquitecto Francisco Hurtado, con la participación y consejo teológico por parte de los propios monjes cartujos, diseñó este espacio como un todo unitario que integra la arquitectura, la escultura y la pintura, tanto al fresco como de caballete, como una *máquina de rezar* y de exaltación de la Comunión y de la orden cartujana; sin embargo, este arquitecto falleció sin llegar a ver su ejecución completada.
+
+![Plano del Sagrario](img/plano-sagrario.jpg)
+
+El Sagrario tiene planta cuadrada, cubierta a cuatro aguas, dentro de tres de las cuales se abre una pequeña caseta que contiene un óculo, orientadas ligeramente inclinadas con respecto a las direcciones sur, este y norte; de esta forma, se garantiza la entrada de luz durante varias épocas del año a bastantes horas del día.
+
+Interiormente, la bóveda circular se enmarca en un cuadrado de aproximadamente las mismas dimensiones, extendido por unos pequeños retranqueados que le dan un aspecto de cruz latina con los brazos pequeños. Debajo del centro de la semiesfera, es decir, en el centro del cuadrado, se encuentra el tabernáculo [@carmona1987tabernaculos] de planta circular aunque con decoraciones en cuatro radios perpendiculares, que lo hacen parecer cuadrado; esta decoración apunta hacia las 4 esquinas del cuadrado.
 
 Como tal espacio privado, la composición arquitectónica del mismo dirige la mirada hacia la cúpula, y esta cúpula es una espiral de escenas en cuyo centro está el Espíritu Santo, en un círculo dorado que parece romper la estructura de la cúpula, abriéndose al cielo. Los dos óculos reales, al norte (norte-nordeste, en realidad) y al sur (sur-suroeste), dan luz al espacio a cualquier hora del día [@almagro2010planimetria]. Se buscaba que los monjes fueran capaces de entender el significado simbólico de esta decoración, que se divide en dos vertientes: la eucarística y la monástica. La primera es la principal clave de la cúpula, aunque también representa a San Bruno llevando en sus hombros al mundo, pero este es un simple pedestal para la custodia eucarística; San Bruno está alineado con la misma y con el Espíritu Santo y con el centro de la Trinidad, que ocupa el centro de la cúpula.
 
