@@ -42,7 +42,7 @@ Aunque está claro que se trata de un palacio, tiene elementos tanto de casa de 
 
 #### Análisis descriptivo
 
-Está documentado que Enrique Egás el Mozo estuvo como máximo dos años, apenas el tiempo suficiente para la traza general y el exterior del edifio, después de haber trabajado en edificios que corresponderían a la tipología alcázar-palacio.
+Está documentado que Enrique Egás el Mozo estuvo como máximo dos años, apenas el tiempo suficiente para la traza general y el exterior del edifico, después de haber trabajado en edificios que corresponderían a la tipología alcázar-palacio.
 
 Se trata de un edificio ligeramente rectangular con patio interior y jardín situado a la izquierda del eje principal. Puede que esta intención inicial explique el exterior austero y sin apenas decoración aparte de la portada, con un ligero resalte con respecto a la fachada principal que a su vez está inclinado, con más grosor en la base que en altura.
 
@@ -301,7 +301,7 @@ Sin embargo, el momento que refleja, el de la llamada visión de San Antonio de 
 
 ![Línea que une a los dos San Antonios de Padua en la iglesia](img/san-antonio-linea.jpg)
 
-La línea que une la estatua de Pereira con los frescos de Rizi permite efectuar un ejercicio de *paragone* o comparación de la capacidad expresica de pintura y escultura en la que me temo que la escultura no queda muy bien parada. Tomándolo en positivo, sin embargo, y asumiendo que es un *bel composto* barroco, lo que no es totalmente improbable al menos en el momento en el que se hicieron los frescos, podemos asumir que los frescos en el nivel superior representan el momento del *vuelo* y en el nivel de la estatua el momento final, cuando el niño ya ha "aterrizado" sobre el libro y se están mirando, quizás para despedirse.
+La línea que une la estatua de Pereira con los frescos de Rizi permite efectuar un ejercicio de *paragone* o comparación de la capacidad expresiva de pintura y escultura en la que me temo que la escultura no queda muy bien parada. Tomándolo en positivo, sin embargo, y asumiendo que es un *bel composto* barroco, lo que no es totalmente improbable al menos en el momento en el que se hicieron los frescos, podemos asumir que los frescos en el nivel superior representan el momento del *vuelo* y en el nivel de la estatua el momento final, cuando el niño ya ha "aterrizado" sobre el libro y se están mirando, quizás para despedirse.
 
 Es interesante notar el uso de la *quadratura sotto in sù* [@maure2011grutescos], usando arquitecturas simuladas para crear el segundo tambor y unas perspectivas bastante complejas para su adaptación a la cúpula elipsoidal. Los dos autores de las mismas, Carreño de Miranda y Francisco Rizi habían trabajado con Colonna y Mitelli, dos pintores boloñeses que ya habían trabajado juntos en el *palazzo* Pitti en Florencia, entre otros lugares, y que habían absorbido este concepto posiblemente en los palacios genoveses decorados por los Perolli. Sea por su contacto con los mismos o porque efectivamente estos contribuyeron en gran manera al diseño de la cúpula [@harris1961], lo cierto es que se trata de un ejemplo excelente del uso de la técnica en España, que sería absorbido por otros pintores como Luca Giordano o Palomino. Rizi marca un único punto de perspectiva en la cúpula, ayudando a unificar la arquitectura fingida y la escena que se representa, una interesante forma de trabajar que muestra el talento del autor. Entre otras cosas, el uso del encamonado permitió que esta superficie de gran tamaño actuara como soporte para los frescos.
 
@@ -439,6 +439,6 @@ Todas las imágenes son del autor, con licencia cc-by-sa, salvo los casos que se
 
 - Planta de San Antonio de los Alemanes, [de GMtnz con licencia cc-by-sa en la Wikipedia](https://es.wikipedia.org/wiki/Archivo:Fig._6._Planta_de_la_iglesia_de_San_Antonio_de_los_Alemanes_y_del_Hospital_de_la_Hermandad_del_Refugio.png).
 
-- Planta de Cartuja extraida de [@almagro2010planimetria].
+- Planta de Cartuja extraída de [@almagro2010planimetria].
 
 ## Referencias
