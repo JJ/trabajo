@@ -30,7 +30,7 @@ En este apartado nos referiremos al edificio en sí.
 
 #### Autor
 
-Encargo de Álvaro de Bazán, se cree que puede tener trazas de Enrique Egas "El Mozo" o incluso de Covarrubias ([@martinez2023materiales] citando a [@alma991007469429704990, p. 381]), aunque este dice "quizá". Se sabe que la escalera la proyectó Giovanni Battista Castello llamado El Bergamasco, que actuó como maestro de obras junto con un tal Olamasquín o posiblemente Cremaschino, es decir, Gian Battista Perolli que posteriormente se llamaría Juan Bautista Peroli. A este se atribuye en muchas obras como El Siglo del Renacimiento [@alma991003192069704990, p84] su autoría de forma exclusiva.
+Encargo de Álvaro de Bazán, se cree que puede tener trazas de Enrique Egas "El Mozo" o incluso de Covarrubias ([@martinez2023materiales] citando a [@alma991007469429704990, p. 381]), aunque este dice "quizá". Se sabe que la escalera la proyectó Giovanni Battista Castello llamado El Bergamasco, que actuó como maestro de obras junto con un tal Olamasquín o posiblemente Cremaschino, es decir, Gian Battista Perolli que posteriormente se llamaría Juan Bautista Peroli. A este se atribuye en muchas obras como El Siglo del Renacimiento [@alma991003192069704990, 84] su autoría de forma exclusiva.
 
 #### Cronología
 
@@ -56,9 +56,9 @@ Donde comenzamos a apreciar todo el esplendor renacentista es al entrar el edifi
 
 ![Patio del palacio del marqués](img/patio.jpg){height=3in}
 
-Este patio rectangular de dos pisos, con tres arcos de medio punto en el lado más estrecho y cuatro en el más ancho, siguiendo una proporción 3/4 clásica, como se ha indicado, por ejemplo, en los escritos de Vignola, que se encontraron entre las propiedades de Castello a su muerte [@garcia2011aproximacion]; aparte de este conocimiento de las reglas de Vignola, Castello estaba familiarizado con su plasmación en los palacios de Génova. Esta influencia se verá de una forma más o menos directa en este patio.
+Este patio rectangular de dos pisos, con tres arcos de medio punto en el lado más estrecho y cuatro en el más ancho, siguiendo una proporción tres cuartos clásica, como se ha indicado, por ejemplo, en los escritos de Vignola, que se encontraron entre las propiedades de Castello a su muerte [@garcia2011aproximacion]; aparte de este conocimiento de las reglas de Vignola, Castello estaba familiarizado con su plasmación en los palacios de Génova. Esta influencia se verá de una forma más o menos directa en este patio.
 
-Esa influencia vignolesca se ve también en la arquitectura desornamentada y planar de las arcadas de este patio. Se prefieren pilastras frente a columnas, de orden dórico en el piso bajo, de orden jónico en el piso alto; los intradoses de los arcos están decorados con diamantes y cajeados simulados, un recurso también clásico sacado de los tratados de arquitectura al uso. Este motivo se repite también en los intradós de los arcos de la escalera y las bóvedas de las dos plantas, aunque con más decoración, y también en el intradós de las arcadas de la loggia del piso superior. El paso de una pirámide a un rombo en la segunda planta establece una jerarquía visual que va de lo relativamente sobrio a lo más decorativo
+Esa influencia vignolesca se ve también en la arquitectura desornamentada y planar de las arcadas de este patio. Se prefieren pilastras frente a columnas, de orden dórico en el piso bajo, de orden jónico en el piso alto; los intradoses de los arcos están decorados con diamantes y cajeados simulados, un recurso también clásico sacado de los tratados de arquitectura al uso. Este motivo se repite también en los intradoses de los arcos de la escalera y las bóvedas de las dos plantas, aunque con más decoración, y también en el intradós de las arcadas de la loggia del piso superior. El paso de una pirámide a un rombo en la segunda planta establece una jerarquía visual que va de lo relativamente sobrio a lo más decorativo
 
 El patio está organizado de forma axial desde la puerta, llevando a una escalera monumental que sí está documentada como creada por el Bergamasco, que de hecho usándola como portafolio fue contratado por Felipe II para que construyera una similar en el Escorial. La escalera ocupa toda la parte trasera del palacio, teniendo un tramo de subida que se bifurca llegando a dos descansillos con sendas hornacinas ocupadas por esculturas (ver más adelante) y dos tramos de subida adicionales. Todos los tramos están cubiertos por bóvedas de cañón afrescadas, siguiendo un programa iconográfico centrado en la fama, las victorias militares y las virtudes del buen soldado español (ver también más adelante).
 
@@ -129,7 +129,7 @@ Por otro lado, Battista Perolli trajo a una serie de ayudantes entre los que se 
 
 #### Cronología
 
-La etapa decorativa el palacio comenzó a partir de 1574, terminándose en torno a 1589, más o menos cuando el resto del palacio. Algunas partes puede que se concluyeran con anterioridad, como se muestra en los mismos frescos: "Acabóse el año de MDLXXXVI".
+La etapa decorativa del palacio comenzó a partir de 1574, terminándose en torno a 1589, más o menos cuando el resto del palacio. Algunas partes puede que se concluyeran con anterioridad, como se muestra en los mismos frescos: "Acabóse el año de MDLXXXVI".
 
 ![Acabóse en 1586](img/acabose.jpg){height=3in}
 
@@ -190,7 +190,7 @@ Por si fuera poco luchar contra el infiel, Felipe II se encontraba también luch
 
 En este contexto de guerra interminable, las finanzas del rey no podían ejercer ningún tipo de mecenazgo sobre las artes y los artistas, aparte de la declarada preferencia de Felipe II por artistas italianos como Ticiano o Sofonisba Anguissola. Estos influyeron en la pintura de esa época, con artistas como Sánchez Coello adoptando los manierismos de Anguissola y otros como "El Mudo" aprendiendo, a través de los cuadros copiados, de Ticiano y otros autores italianos.
 
-En la imaginería predomina la imagen religiosa; la imagen de la nobleza está dominada por la funeraria. Por eso irrumpe con tanta fuerza [@checa:pinturayescultura] el programa iconográfico del Viso del Marqués, dando una imagen completa con raíces humanistas del noble, pero demás aportando un programa decorativo basado en los grutescos y la arquitectura simulada que evolucionaría hacia la decoración de El Escorial.
+En la imaginería predomina la imagen religiosa; la imagen de la nobleza está dominada por la funeraria. Por eso irrumpe con tanta fuerza [@checa:pinturayescultura] el programa iconográfico del Viso del Marqués, dando una imagen completa con raíces humanistas del noble, pero además aportando un programa decorativo basado en los grutescos y la arquitectura simulada que evolucionaría hacia la decoración de El Escorial.
 
 ![Sala de la familia con balaustrada falsa](img/quadratura.jpg){height=3in}
 
@@ -244,7 +244,7 @@ Hermano Pedro Sánchez
 
 #### Cronología
 
-1624-1533 [@poli11]
+1624-1633 [@poli11]
 
 #### Tipología
 
@@ -288,8 +288,8 @@ Se trata de pintura al fresco.
 
 ![Apoteosis de San Antonio de Padua](img/apoteosis-san-antonio.jpg){height=3in}
 
-La cúpula elipsoidal se asienta sobre un tambor de la misma forma; las ventanas reales del tambor se continúan don frontones triangulares partidos con cupulillas circulares simuladas; están separadas por nichos sobre putti que ejercen como atlantes soportando una cornisa con columnas salomónicas simuladas y terminado en un frontón partido con volutas. Estos frontones son molduras reales, que dan paso a una serie de arcos con un tambor adicional simulado y un friso decorado con escudos. Las columnas salomónicas fueron añadidas sobre las lisas originales por Luca Giordano [@castano2021detras].
-Este friso está partido a la derecha de la imagen, perpendicular al escudo y marcando la axialidad del óvalo en su eje mayor, por un grumo de nubes y putti sobre el cual se encuentra San Antonio de Padua; San Antonio se situaría por tanto encima del altar, con el escudo de Portugal encima de la entrada a la iglesia. Este grupo de nubes, según [@harris1961] citando a [@palomino], fue un añadido de Luca Giordano, al parecer.
+La cúpula elipsoidal se asienta sobre un tambor de la misma forma; las ventanas reales del tambor se continúan con frontones triangulares partidos con cupulillas circulares simuladas; están separadas por nichos sobre putti que ejercen como atlantes soportando una cornisa con columnas salomónicas simuladas y terminado en un frontón partido con volutas. Estos frontones son molduras reales, que dan paso a una serie de arcos con un tambor adicional simulado y un friso decorado con escudos. Las columnas salomónicas fueron añadidas sobre las lisas originales por Luca Giordano [@castano2021detras].
+Este friso está partido a la derecha de la imagen, perpendicular al escudo y marcando la axialidad del óvalo en su eje mayor, por un grumo de nubes y putti sobre el cual se encuentra San Antonio de Padua; este se situaría por tanto encima del altar, con el escudo de Portugal encima de la entrada a la iglesia. Este grupo de nubes, según [@harris1961] citando a [@palomino], fue un añadido de Luca Giordano, al parecer.
 
 Antonio de Padua, con un libro abierto sostenido por putti a sus pies, mira con los brazos abiertos a un Niño a su derecha y sobre una nube sostenida por, lo sospechaste, más putti. A los pies del santo se adivina un ramo de lirios pintado con una extrema delicadeza. Este extiende su brazo hacia arriba dirigiendo nuestras miradas hacia un círculo sostenido por, como no, putti de cuyo centro oscurecido emana una luz que ilumina al santo. La Virgen con un manto azul se sitúa detrás del Niño. San Antonio, el Niño y la Virgen forman una línea, indicando como se ha dicho en la escultura la mediación con Dios; esta línea forma un ángulo agudo con el haz de luz que ilumina a San Antonio. 
 
@@ -355,13 +355,13 @@ Debajo del centro de la semiesfera, es decir, en el centro del cuadrado, se encu
 
 Todas las paredes están organizadas como un retablo que, encima de los vanos, crea espacio para una tela. Las 4 telas tienen temas bíblicos y fueron los primeros encargos que recibió Palomino en la Cartuja. Las telas están enmarcadas con columnas, guirnaldas, putti, dorados y cornisas mixtilíneas en una combinación barroca tradicional; la unidad del conjunto se impone a través de las miradas y los gestos de los ángeles y a través de una cierta jerarquía visual: una profundidad ligeramente más pronunciada en el intradós de los arcos.
 
-![Vista general del sagrario desde la entrada](img/sagrario-vista-general.jpg){height3in}
+![Vista general del sagrario desde la entrada](img/sagrario-vista-general.jpg){height=3in}
 
 Como tal espacio privado, la composición arquitectónica del mismo dirige la mirada hacia la cúpula, y esta cúpula es una espiral de escenas en cuyo centro está el Espíritu Santo, en un círculo dorado que parece romper la estructura de la cúpula, abriéndose al cielo. Los dos óculos reales, al norte (norte-nordeste, en realidad) y al sur (sur-suroeste), dan luz al espacio a cualquier hora del día [@almagro2010planimetria]. Se buscaba que los monjes fueran capaces de entender el significado simbólico de esta decoración, que se divide en dos vertientes: la eucarística y la monástica. La primera es la principal clave de la cúpula, aunque también representa a San Bruno llevando en sus hombros al mundo, pero este es un simple pedestal para la custodia eucarística; San Bruno está alineado con la misma y con el Espíritu Santo y con el centro de la Trinidad, que ocupa el centro de la cúpula.
 
 En el centro del Sagrario se encuentra el tabernáculo [@carmona1987tabernaculos], una construcción en mármoles de diferentes colores, en concreto jaspe colorado en el centro y mármol negro para las columnas salomónicas, con pedestales que se proyectan desde las esquinas ocupados por esculturas (de Duque Cornejo) y dos pisos con planta decreciente más pedestal. Las líneas mixtilíneas que separan los dos pisos apenas permiten describir con precisión el conjunto, más allá de llamarlos, como [@carmona1987tabernaculos], "un hervor de microplanos", aunque se organiza claramente, a base de arcos lobulados y de placas, como una "flecha" que apunta hacia la escultura de la Fe en la cumbre, que a su vez apunta al Espíritu Santo en la cúpula.
 
-Una vez más, la integración de policromía, decoración, iluminación y escultura es realmente notable; la arquitectura y sobre todo el arquitecto como orquestador de la composición son una aportación fundamental a este gran ejemplo de *bel composto* español.
+Una vez más, la integración de policromía, decoración, iluminación y escultura es realmente notable. La arquitectura y sobre todo el arquitecto como orquestador de la composición son una aportación fundamental a este gran ejemplo de *bel composto* español.
 
 ### Frescos de la cúpula del Sagrario
 
@@ -397,13 +397,13 @@ Palomino hace un uso relativamente ligero de la *quadratura*, creando una muy li
 
 ![Cristo en casa de Marta y María](img/marta-maria.jpg){height=3in}
 
-De esta forma potencia el *docere* de la cúpula y también resuelve un problema compositivo interesante: colocar una narrativa que escapa el programa iconográfico de la cúpula, pero que sirve a su vez como información adicional para los que la contemplen. La grisalla, además, crea un "espacio de pensamiento" o *denkraum* [@picciche2025warburg] que permite separar mentalmente lo que representan del resto. Estas grisallas contienen escenas como la de Jesucristo en casa de Marta y María (en la imagen), la Santa Cena, el ayuno de Cristo en el desierto y la cena en Emaús, todas ellas relacionadas a su vez con el sacramento de la Eucaristía y el concepto de vida contemplativa en un "desierto" simbólico.
+De esta forma potencia el *docere* de la cúpula y también resuelve un problema compositivo interesante: colocar una narrativa que escapa al programa iconográfico de la cúpula, pero que sirve a su vez como información adicional para los que la contemplen. La grisalla, además, crea un "espacio de pensamiento" o *denkraum* [@picciche2025warburg] que permite separar mentalmente lo que representan del resto. Estas grisallas contienen escenas como la de Jesucristo en casa de Marta y María (en la imagen), la Santa Cena, el ayuno de Cristo en el desierto y la cena en Emaús, todas ellas relacionadas a su vez con el sacramento de la Eucaristía y el concepto de vida contemplativa en un "desierto" simbólico.
 
 ![Santa Teresa y San Bruno](img/santa-teresa.jpg)
 
 El eje de la composición está marcado también por una línea que une a la alegoría de la religión monástica, encima de la puerta de entrada, con San Bruno como fundador de la orden cartujana, soportando el peso del mundo, sobre el cual la eucaristía se alza, victoriosa, en una iconografía que recuerda a la del gigante Atlas [@roman2020pinturas], resignificando un motivo mitológico con el objetivo de convertirlo, a su vez, en un gigante a los ojos de los miembros de su orden. En realidad, la religión monástica comienza una línea que termina en una alegoría de la Fe (con los ojos tapados) debajo de San Bruno. Esta línea se cruza con otra línea en cuyos extremos, que corresponderían al norte y al sur, están los óculos que se abren al exterior y, aparentemente encaramados a los mismos, con una pierna sobre su borde en una postura un tanto incongruente, la Soledad (con la iconografía clásica de la misma, mujer con un hábito oscuro y la cabeza ligeramente inclinada) y el Silencio representado como un anciano oscurecido con el dedo en la boca, siguiendo, al parecer, la iconografía de Cesare Ripa según [@roman2020pinturas].
 
-En resumen, el conocimiento iconográfico y técnico de Palomino se unen con el *dissegno* de Hurtado y las esculturas de Duque Cornejo y otros para crear un *bel composto* donde las diferentes partes están en movimiento y conversación unas con otras, creando una verdadera enciclopedia simbólica que, sin duda, actuaría de forma directa en los corazones y las mentes de los cartujos que traspasaran la cortina; desgraciadamente, gran parte de ese mensaje se ha perdido hoy en día, pero podemos aún atisbar algo y aprender y deleitarnos con ello.
+En resumen, el conocimiento iconográfico y técnico de Palomino se unen con el *disegno* de Hurtado y las esculturas de Duque Cornejo y otros para crear un *bel composto* donde las diferentes partes están en movimiento y conversación unas con otras, creando una verdadera enciclopedia simbólica que, sin duda, actuaría de forma directa en los corazones y las mentes de los cartujos que traspasaran la cortina; desgraciadamente, gran parte de ese mensaje se ha perdido hoy en día, pero podemos aún atisbar algo y aprender y deleitarnos con ello.
 
 
 ### María Magdalena Penitente de Duque Cornejo
@@ -428,11 +428,11 @@ Entrando al sagrario, detrás de la cortina que inicialmente cubría la puerta d
 
 ![Magdalena penitente de Duque Cornejo](img/magdalena.jpg){height=3in}
 
-Se trata de una Magdalena penitente policromada. La iconografía de esta Magdalena penitente procede de la Leyenda Dorada, donde posiblemente se estén fundiendo tanto la historia del Evangelio de María Magdalena como la de Santa María Egipcíaca. En esta iconografía se suele representar a una Magdalena doliente, con una cruz en la mano, desnuda, cubierta con su pelo o de harapos, y sujetando una cruz enfrente de la cara [@gomez2019proyecto].
+Se trata de una Magdalena penitente policromada. La iconografía de esta Magdalena penitente procede de la Leyenda Dorada, donde posiblemente se estén fundiendo tanto la historia del Evangelio de María Magdalena como la de Santa María Egipcíaca. En esta iconografía se suele representar a una Magdalena doliente, con una cruz en la mano, desnuda, cubierta con su pelo o de harapos, y sujetando una cruz enfrente de la cara [@gomez2019proyecto]. Sin embargo, aquí se opta por tomar de la iconografía habitual tan sólo el cráneo y el crucifijo, vistiendo a la santa con un hábito, posiblemente buscando el *decoro* aun a fuer de sacrificar la precisión iconográfica.
 
 Lo más interesante de esta talla es como se integra en el *bel composto* de la Cartuja usando dos de los atributos iconográficos de la santa: la calavera aparece apoyada en unas rocas angulosas, a su vez colocado sobre el drapeado sustentado por los putti que es común a los nichos de las cuatro esquinas. Un poco más atrás se puede ver el pomo de perfume, algo incongruente en esta representación de la Magdalena, pero que liga los dos momentos de la santa: su unción de los pies de Cristo en su primera aparición en el Evangelio y estas postrimerías narradas en la Leyenda Dorada. Esto, lejos de ser casual, es fruto de una decisión de Francisco Hurtado, actuando como verdadero *regista* o director en la construcción y decoración de la Cartuja. Como afirma [@torrens79], 
 
-> ... Supo entender qu ela completa unidad de composición integradora sólo la podría conseguir con la elección de colaboradores que estuvieran identificados con su ideal estético.
+> ... Supo entender que la completa unidad de composición integradora sólo la podría conseguir con la elección de colaboradores que estuvieran identificados con su ideal estético.
 
 La mirada de la santa se orienta hacia el centro de la estancia, donde se encuentra el tabernáculo. Los drapeados son vaporosos, casi flotantes, y la postura, en un contraposto muy forzado, presta mucho más dramatismo a la imagen. El estudio anatómico de manos y cara son magistrales; la boca entreabierta de la santa parece que está rezando una plegaria, y los ojos entrecerrados parecen a punto de echarse a llorar. 
 
@@ -444,13 +444,13 @@ Según algunos autores se trata de la mejor escultura del artista; pero parte de
 
 Acisclo Antonio Palomino de Castro y Velasco (1655-1726) [@palomino] fue un pintor y tratadista nacido en Córdoba que desarrolló su labor principalmente dentro del barroco andaluz y español. A partir de su contacto con Luca Giordano, llegado a Madrid para un encargo real, se interesaría y desarrollaría su labor en diferentes edificios religiosos como la basílica de los Santos Juanes o de los Desamparados en Valencia aparte de la que nos ocupa, la Cartuja de Granada, de las últimas obras en las que trabajaría antes de su muerte; siendo la última el Sagrario de la Cartuja de El Paular. Siendo la Cartuja una obra de madurez, en ella reflejaría toda su maestría en la composición, la luz, y dominio de la preparación y la técnica pictórica.
 
-Como muchas otras órdenes, los cartujos siguen unas reglas para la construcción de sus monasterios que corresponde a las funcionalidades que estos requieren; en el caso de los cartujos, además, la reglas de silencio y recogimiento requieren algunos espacios adicionales, como la llamada zona de "Destierro" o "Silencio" [@cartuja]; el monasterio se concibe como un "desierto" donde el monje puede recogerse orando y encontrándose con Dios.
+Como muchas otras órdenes, los cartujos siguen unas reglas para la construcción de sus monasterios que corresponde a las funcionalidades que estos requieren; en el caso de los cartujos, además, las reglas de silencio y recogimiento requieren algunos espacios adicionales, como la llamada zona de "Destierro" o "Silencio" [@cartuja]; el monasterio se concibe como un "desierto" donde el monje puede recogerse orando y encontrándose con Dios.
 
 A partir de la Cartuja de las Cuevas de Sevilla, construida en el siglo XV, se añade un espacio adicional, el Sagrario para la reserva eucarística, que encaja con el énfasis de los cartujos en la adoración de la Eucaristía. En la época tras la Contrarreforma este énfasis se adapta muy bien a su espíritu, con los que sagrarios cartujanos adquieren las dimensiones de una verdadera capilla.
 
 El Sagrario o *Sancta Sanctórum* está concebido en la arquitectura cartujana como un espacio "oculto" detrás del altar, una "tienda en el desierto" [@cartuja], destinado principalmente a la adoración privada de los cartujos por separado de los frailes legos [@lozano2023orden], configurándolo de forma que "proteja del mundo exterior" [@ramos2021arquitectura].
 
-En un contexto más amplio, la exaltación de la Eucaristía como sacramento católico forma parte del movimiento de rearme espiritual propiciado por la Contrarreforma del concilio de Trento. Al rechazar la transustanciación, el protestantismo convirtió a la comunión en un punto de debate. En pinturas tales como esta se trata de mostrar ese concepto abstracto, la presencia en cuerpo y sangre de cristo en la comunión, de forma simbólica y comprensible para todos, aparte de resaltar el triunfo de la Comunión sobre los pecados del mundo, simbolizados por la custodia culminando la bola del mundo. Aunque este Sagrario no estuviera abierto al público en general, cabe destacar que los frailes cartujos no tenían por qué ser necesariamente personas instruidas y esta educación en un entorno escenográfico les convenía como a cualquier cristiano.
+En un contexto más amplio, la exaltación de la Eucaristía como sacramento católico forma parte del movimiento de rearme espiritual propiciado por la Contrarreforma del concilio de Trento. Al rechazar la transustanciación, el protestantismo convirtió a la comunión en un punto de debate. En pinturas tales como esta se trata de mostrar ese concepto abstracto, la presencia en cuerpo y sangre de Cristo en la comunión, de forma simbólica y comprensible para todos, aparte de resaltar el triunfo de la Comunión sobre los pecados del mundo, simbolizados por la custodia culminando la bola del mundo. Aunque este Sagrario no estuviera abierto al público en general, cabe destacar que los frailes cartujos no tenían por qué ser necesariamente personas instruidas y esta educación en un entorno escenográfico les convenía como a cualquier cristiano.
 
 Esta devoción eucarística, centrada en el Sagrario como tipología arquitectónica típica de las cartujas españolas, tienen su culmen en este, y su foco en la cúpula, verdadero centro iconográfico y también religioso de la misma [@deCeballos], con el contexto añadido del recogimiento y silencio característico de la orden cartuja.
 
