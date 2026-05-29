@@ -347,11 +347,17 @@ El arquitecto Francisco Hurtado, con la participación y consejo teológico de l
 
 El Sagrario tiene planta cuadrada, cubierta a cuatro aguas, dentro de tres de las cuales se abre una pequeña caseta que contiene un óculo, orientadas ligeramente inclinadas con respecto a las direcciones sur, este y norte; de esta forma, se garantiza la entrada de luz durante varias épocas del año a bastantes horas del día. El exterior de la torre está guarnecido de contrafuertes pareados en las esquinas, y ornamentado con ventanas ciegas en arcos de medio punto flanqueadas por pilastras. Estas ventanas tienen un pequeño círculo que posiblemente tenga más función de de ventilación de la armadura de la cúpula, hecha de cantería, que de iluminación. Este aspecto cuadrado bajo la cúpula hace que se asemeje a una *qubba* musulmana, concepto que Hurtado podría haber adquirido de su contacto con la arquitectura vernácula.
 
-Interiormente, la bóveda circular se enmarca en un cuadrado de aproximadamente las mismas dimensiones, extendido por unos pequeños retranqueados que le dan un aspecto de cruz latina con los brazos pequeños. Debajo del centro de la semiesfera, es decir, en el centro del cuadrado, se encuentra el tabernáculo [@carmona1987tabernaculos] de planta circular aunque con decoraciones en cuatro radios perpendiculares, que lo hacen parecer cuadrado; esta decoración apunta hacia las 4 esquinas del cuadrado.
+Interiormente, la cúpula se enmarca en un cuadrado de aproximadamente las mismas dimensiones, extendido por unos pequeños retranqueados que le dan un aspecto de cruz latina con los brazos pequeños. Esta cúpula se apoya sobre pechinas decoradas con tetramorfos, también ejecutados por Palomino.
+
+Debajo del centro de la semiesfera, es decir, en el centro del cuadrado, se encuentra el tabernáculo [@carmona1987tabernaculos] de planta circular aunque con decoraciones en cuatro radios perpendiculares, que lo hacen parecer cuadrado; esta decoración apunta hacia las 4 esquinas del cuadrado. el tabernáculo recibe iluminación adicional por unos óculos en la parte inferior de la capilla que dan a unas capillas laterales de planta rectangular, realizadas más o menos al mismo tiempo; también de un ventanal circular situado en el eje opuesto a la entrada, y por supuesto hoy en día desde esta entrada acristalada, aunque originalmente habría estado cubierto con una cortina.
+
+Todas las paredes están organizadas como un retablo que, encima de los vanos, crea espacio para una tela. Las 4 telas tienen temas bíblicos y fueron los primeros encargos que recibió Palomino en la Cartuja. Las telas están enmarcadas con columnas, guirnaldas, putti, dorados y cornisas mixtilíneas en una combinación barroca tradicional; la unidad del conjunto se impone a través de las miradas y los gestos de los ángeles y a través de una cierta jerarquía visual: una profundidad ligeramente más pronunciada en el intradós de los arcos.
+
+![Vista general del sagrario desde la entrada](img/sagrario-vista-general.jpg){height3in}
 
 Como tal espacio privado, la composición arquitectónica del mismo dirige la mirada hacia la cúpula, y esta cúpula es una espiral de escenas en cuyo centro está el Espíritu Santo, en un círculo dorado que parece romper la estructura de la cúpula, abriéndose al cielo. Los dos óculos reales, al norte (norte-nordeste, en realidad) y al sur (sur-suroeste), dan luz al espacio a cualquier hora del día [@almagro2010planimetria]. Se buscaba que los monjes fueran capaces de entender el significado simbólico de esta decoración, que se divide en dos vertientes: la eucarística y la monástica. La primera es la principal clave de la cúpula, aunque también representa a San Bruno llevando en sus hombros al mundo, pero este es un simple pedestal para la custodia eucarística; San Bruno está alineado con la misma y con el Espíritu Santo y con el centro de la Trinidad, que ocupa el centro de la cúpula.
 
-En el centro del sagrario se encuentra el tabernáculo [@carmona1987tabernaculos]
+En el centro del Sagrario se encuentra el tabernáculo [@carmona1987tabernaculos], una construcción en mármoles de diferentes colores, con pedestales que se proyectan desde las esquinas ocupados por esculturas (de Duque Cornejo) y dos pisos más pedestal. Las líneas mixtilíneas que separan los dos pisos apenas permiten describir con precisión el conjunto, aunque se organiza claramente, a base de arcos lobulados y de placas, como una "flecha" que apunta hacia la escultura de la Fe en la cumbre, que a su vez apunta al Espíritu Santo en la cúpula.
 
 ### Frescos de la cúpula del Sagrario
 
@@ -379,7 +385,9 @@ El planteamiento iconográfico de la cúpula lo describe el propio Palomino habl
 
 > En el lugar mas supremo se mirará la Trinidad santísima en un gran trono de nubes, asistida de angeles, y serafines [...] María santísima, coronada reyna de los angeles [...] al otro lado San Juan Bautista, y san Joseph
 
-La profusión de figuras, aunque más contenida y mejor perfilada que la de los Desamparados en Valencia, tiene forma de *apoteosis barroca* [@roman2020pinturas] y ciertas similitudes con la cúpula de la escalera del Escorial creada por Lucas Giordano; en esta apoteosis, la perspectiva se ha realizado con precisión, siguiendo los preceptos matemáticos que el propio Palomino estudió y desarrolló en sus escritos.
+La profusión de figuras, aunque más contenida y mejor perfilada que la de los Desamparados en Valencia, tiene forma de *apoteosis barroca* [@roman2020pinturas] y ciertas similitudes con la cúpula de la escalera del Escorial creada por Lucas Giordano; en esta apoteosis, la perspectiva se ha realizado con precisión, siguiendo los preceptos matemáticos que el propio Palomino estudió y desarrolló en sus escritos; como en el caso de San Antonio de los Alemanes, usa el *sfumato* para crear varios planos de figuras, todos ellos culminando en el Espíritu Santo, de un dorado que deslumbra y que usa todo lo que Palomino ha sabido transmitir en sus diferentes tratados.
+
+
 
 
 
