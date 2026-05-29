@@ -248,7 +248,7 @@ Hermano Pedro Sánchez
 
 #### Tipología
 
-![Planta de la iglesia](img/san-antonio-de-los-alemanes-planta.jpg)
+![Planta de la iglesia](img/san-antonio-de-los-alemanes-planta.jpg){height=3in}
 
 Iglesia de planta elipsoidal enmarcada en un rectángulo achaflanado. 
 
@@ -286,7 +286,7 @@ Se trata de pintura al fresco.
 
 #### Análisis descriptivo
 
-![Apoteosis de San Antonio de Padua](img/apoteosis-san-antonio.jpg)
+![Apoteosis de San Antonio de Padua](img/apoteosis-san-antonio.jpg){height=3in}
 
 La cúpula elipsoidal se asienta sobre un tambor de la misma forma; las ventanas reales del tambor se continúan don frontones triangulares partidos con cupulillas circulares simuladas; están separadas por nichos sobre putti que ejercen como atlantes soportando una cornisa con columnas salomónicas simuladas y terminado en un frontón partido con volutas. Estos frontones son molduras reales, que dan paso a una serie de arcos con un tambor adicional simulado y un friso decorado con escudos. Las columnas salomónicas fueron añadidas sobre las lisas originales por Luca Giordano [@castano2021detras].
 Este friso está partido a la derecha de la imagen, perpendicular al escudo y marcando la axialidad del óvalo en su eje mayor, por un grumo de nubes y putti sobre el cual se encuentra San Antonio de Padua; San Antonio se situaría por tanto encima del altar, con el escudo de Portugal encima de la entrada a la iglesia. Este grupo de nubes, según [@harris1961] citando a [@palomino], fue un añadido de Luca Giordano, al parecer.
@@ -299,7 +299,7 @@ Aunque la ejecución de esta cúpula es de Rizi, se conservan [en el Museo del P
 
 Sin embargo, el momento que refleja, el de la llamada visión de San Antonio de Padua, ha sido representado a menudo en el barroco hispano. Sentado en su estudio en el sur de Francia, el santo es visitado por el Niño Jesús, que le muestra el cielo; la luz celestial que emana de la habitación es contemplada por el casero, que consigue tener también un atisbo de esa visión celestial. [La "Visión de San Antonio de Padua"](https://www.archisevillasiempreadelante.org/vision-san-antonio-padua-murillo/), de Murillo, usa una composición del Niño y San Antonio similar; [el cuadro de Carducho](https://www.epdlp.com/cuadro.php?id=3596), maestro de Rizi, muestra una composición lineal entre Virgen, Niño y San Antonio que evoca la de esta iglesia. La alusión al barroco boloñés plasmada en la historiografía clásica es tentadora, pero en este caso me inclinaría más por una genealogía totalmente local. 
 
-![Línea que une a los dos San Antonios de Padua en la iglesia](img/san-antonio-linea.jpg)
+![Línea que une a los dos San Antonios de Padua en la iglesia](img/san-antonio-linea.jpg){height=4in}
 
 La línea que une la estatua de Pereira con los frescos de Rizi permite efectuar un ejercicio de *paragone* o comparación de la capacidad expresiva de pintura y escultura en la que me temo que la escultura no queda muy bien parada. Tomándolo en positivo, sin embargo, y asumiendo que es un *bel composto* barroco, lo que no es totalmente improbable al menos en el momento en el que se hicieron los frescos, podemos asumir que los frescos en el nivel superior representan el momento del *vuelo* y en el nivel de la estatua el momento final, cuando el niño ya ha "aterrizado" sobre el libro y se están mirando, quizás para despedirse.
 
@@ -351,6 +351,8 @@ Interiormente, la bóveda circular se enmarca en un cuadrado de aproximadamente 
 
 Como tal espacio privado, la composición arquitectónica del mismo dirige la mirada hacia la cúpula, y esta cúpula es una espiral de escenas en cuyo centro está el Espíritu Santo, en un círculo dorado que parece romper la estructura de la cúpula, abriéndose al cielo. Los dos óculos reales, al norte (norte-nordeste, en realidad) y al sur (sur-suroeste), dan luz al espacio a cualquier hora del día [@almagro2010planimetria]. Se buscaba que los monjes fueran capaces de entender el significado simbólico de esta decoración, que se divide en dos vertientes: la eucarística y la monástica. La primera es la principal clave de la cúpula, aunque también representa a San Bruno llevando en sus hombros al mundo, pero este es un simple pedestal para la custodia eucarística; San Bruno está alineado con la misma y con el Espíritu Santo y con el centro de la Trinidad, que ocupa el centro de la cúpula.
 
+En el centro del sagrario se encuentra el tabernáculo [@carmona1987tabernaculos]
+
 ### Frescos de la cúpula del Sagrario
 
 Aunque hay otras pinturas del mismo Palomino en el Sagrario, y también forman parte del mismo programa iconográfico, nos centraremos en los frescos.
@@ -367,13 +369,19 @@ Comenzado en 1712.
 
 Se trata de pintura al fresco pero realizado de una manera descrita por él mismo en su tratado [@palomino]; lo denomina "labrada y empastada". Aunque no se han hecho catas y por tanto no se conoce la técnica precisa, otros investigadores [@soriano2008frescos] que han intervenido en la restauración de obras suyas en Valencia, cuentan que se usan morteros internos basados en yeso y no en cal. Esto permite que se agarren con más firmeza a la pared. Esto está confirmado en la nota 3 a pie de página de [@soriano2008frescos].
 
+Aunque no tiene tambor y por tanto técnicamente podría considerarse bóveda (semiesférica o baída), todas las fuentes hablan de cúpula sobre pechinas, así que usaremos este término.
+
 #### Análisis descriptivo
+
+![Cúpula de la Cartuja](img/cupula-cartuja.jpg){height=3in}
 
 El planteamiento iconográfico de la cúpula lo describe el propio Palomino hablando de la cúpula del monasterio de El Paular, del mismo autor y realizado a continuación, capítulo XIV del Libro Nono del Tomo Segundo de [@palomino]; aunque hay diferencias, los elementos principales son comunes: 
 
 > En el lugar mas supremo se mirará la Trinidad santísima en un gran trono de nubes, asistida de angeles, y serafines [...] María santísima, coronada reyna de los angeles [...] al otro lado San Juan Bautista, y san Joseph
 
 La profusión de figuras, aunque más contenida y mejor perfilada que la de los Desamparados en Valencia, tiene forma de *apoteosis barroca* [@roman2020pinturas] y ciertas similitudes con la cúpula de la escalera del Escorial creada por Lucas Giordano; en esta apoteosis, la perspectiva se ha realizado con precisión, siguiendo los preceptos matemáticos que el propio Palomino estudió y desarrolló en sus escritos.
+
+
 
 ### María Magdalena Penitente de Duque Cornejo
 
